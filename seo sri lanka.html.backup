@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
@@ -9,7 +9,7 @@
         <meta name="author" content="Buddhika S Weerasekara">
         <meta property="og:title" content="SEO Sri Lanka | Buddhika S Weerasekara - #1 SEO Expert in Sri Lanka">
         <meta property="og:description" content="Leading SEO Sri Lanka expert Buddhika S Weerasekara provides professional SEO services. Achieve top Google rankings with the best SEO consultant in Sri Lanka.">
-        <meta property="og:url" content="https://seoconsultantsrilanka.com/seo-sri-lanka">
+        <meta property="og:url" content="https://seoconsultantsrilanka.com/seo-sri-lanka.html">
         <meta property="og:type" content="website">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="SEO Sri Lanka | Buddhika S Weerasekara - #1 SEO Expert">
@@ -132,7 +132,7 @@
           "name": "Buddhika S Weerasekara",
           "jobTitle": "SEO Expert",
           "description": "#1 SEO Expert in Sri Lanka specializing in SEO Sri Lanka services, technical SEO, content optimization, and guaranteed Google rankings.",
-          "url": "https://seoconsultantsrilanka.com/seo-sri-lanka",
+          "url": "https://seoconsultantsrilanka.com/seo-sri-lanka.html",
           "telephone": "+94-77-806-4714",
           "email": "seo@inzra.com",
           "address": {
@@ -173,7 +173,7 @@
                 <div class="container">
                     <div class="exto-responsive-menu">
                         <div class="logo">
-                            <a href="index">
+                            <a href="index.html">
                                 <img src="assets/img/seo logo.png" alt="SEO Sri Lanka" style="max-width: 120px;">
                             </a>
                         </div>
@@ -184,7 +184,7 @@
             <div class="exto-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index">
+                        <a class="navbar-brand" href="index.html">
                             <img src="assets/img/seo logo.png" alt="SEO Sri Lanka" style="max-width: 120px;">
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -196,21 +196,21 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="index" class="nav-link">SaaS Home</a>
+                                            <a href="index.html" class="nav-link">SaaS Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-2" class="nav-link">Marketing Home</a>
+                                            <a href="index-2.html" class="nav-link">Marketing Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-3" class="nav-link">Startup Home</a>
+                                            <a href="index-3.html" class="nav-link">Startup Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-4" class="nav-link">SEO Agency Home</a>
+                                            <a href="index-4.html" class="nav-link">SEO Agency Home</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="about" class="nav-link">About</a>
+                                    <a href="about.html" class="nav-link">About</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link active">
@@ -219,10 +219,10 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="services" class="nav-link">Service</a>
+                                            <a href="services.html" class="nav-link">Service</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-services" class="nav-link active">Service Details</a>
+                                            <a href="single-services.html" class="nav-link active">Service Details</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -233,10 +233,10 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="projects" class="nav-link">Project</a>
+                                            <a href="projects.html" class="nav-link">Project</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-projects" class="nav-link">Project Details</a>
+                                            <a href="single-projects.html" class="nav-link">Project Details</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -247,31 +247,31 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="about" class="nav-link">About</a>
+                                            <a href="about.html" class="nav-link">About</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="team" class="nav-link">Team</a>
+                                            <a href="team.html" class="nav-link">Team</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="faq" class="nav-link">FAQ</a>
+                                            <a href="faq.html" class="nav-link">FAQ</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="pricing" class="nav-link">Pricing</a>
+                                            <a href="pricing.html" class="nav-link">Pricing</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="login" class="nav-link">Log in</a>
+                                            <a href="login.html" class="nav-link">Log in</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="signup" class="nav-link">Sign up</a>
+                                            <a href="signup.html" class="nav-link">Sign up</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="error-404" class="nav-link">404 Error</a>
+                                            <a href="error-404.html" class="nav-link">404 Error</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="contact" class="nav-link">Contact</a>
+                                            <a href="contact.html" class="nav-link">Contact</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="coming-soon" class="nav-link">Coming Soon</a>
+                                            <a href="coming-soon.html" class="nav-link">Coming Soon</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -282,16 +282,16 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="shop" class="nav-link">Shop</a>
+                                            <a href="shop.html" class="nav-link">Shop</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-product" class="nav-link">Single Products</a>
+                                            <a href="single-product.html" class="nav-link">Single Products</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="cart" class="nav-link">Cart</a>
+                                            <a href="cart.html" class="nav-link">Cart</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="checkout" class="nav-link">Checkout</a>
+                                            <a href="checkout.html" class="nav-link">Checkout</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -302,20 +302,20 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="blog" class="nav-link">Blog</a>
+                                            <a href="blog.html" class="nav-link">Blog</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-blog" class="nav-link">Blog Details</a>
+                                            <a href="single-blog.html" class="nav-link">Blog Details</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact" class="nav-link">Contact</a>
+                                    <a href="contact.html" class="nav-link">Contact</a>
                                 </li>
                             </ul>
 
                             <div class="others-options saas-option">
-                                <a class="saas-nav-btn" href="pricing">
+                                <a class="saas-nav-btn" href="pricing.html">
                                     Free Analysis
                                 </a>
                             </div>
@@ -336,7 +336,7 @@
                         <div class="page-title-content">
                             <h2>SEO Sri Lanka | Buddhika S Weerasekara - #1 SEO Expert</h2>
                             <ul>
-                                <li><a href="index">Home</a></li>
+                                <li><a href="index.html">Home</a></li>
                                 <li>SEO Sri Lanka Services</li>
                             </ul>
                         </div>
@@ -556,8 +556,8 @@
                             <h3 style="color: white; margin-bottom: 20px;">Ready to Dominate Google with SEO Sri Lanka?</h3>
                             <p style="color: white; font-size: 18px; margin-bottom: 30px; max-width: 800px; margin-left: auto; margin-right: auto;">Contact Buddhika S Weerasekara, the #1 SEO expert in Sri Lanka, for a free SEO consultation. Let's discuss how our proven SEO Sri Lanka strategies can transform your online visibility and drive sustainable business growth.</p>
                             <div>
-                                <a href="pricing" class="needs-btn-one" style="background: white; color: #667eea; margin-right: 15px; display: inline-block;">View SEO Packages</a>
-                                <a href="contact" class="needs-btn-one" style="background: #8b5cf6; color: white; display: inline-block;">Get Free Consultation</a>
+                                <a href="pricing.html" class="needs-btn-one" style="background: white; color: #667eea; margin-right: 15px; display: inline-block;">View SEO Packages</a>
+                                <a href="contact.html" class="needs-btn-one" style="background: #8b5cf6; color: white; display: inline-block;">Get Free Consultation</a>
                             </div>
                             <p style="color: white; margin-top: 30px; font-size: 16px;"><i class="fa fa-phone"></i> +94-77-806-4714 | <i class="fa fa-envelope"></i> seo@inzra.com</p>
                         </div>
@@ -584,19 +584,19 @@
                             <h3>Company</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="contact">Support Center</a>
+                                    <a href="contact.html">Support Center</a>
                                 </li>
                                 <li>
-                                    <a href="services">Popular Campaign</a>
+                                    <a href="services.html">Popular Campaign</a>
                                 </li>
                                 <li>
-                                    <a href="contact">Customer Support</a>
+                                    <a href="contact.html">Customer Support</a>
                                 </li>
                                 <li>
-                                    <a href="about">Copyright</a>
+                                    <a href="about.html">Copyright</a>
                                 </li>
                                 <li>
-                                    <a href="blog">Latest News</a>
+                                    <a href="blog.html">Latest News</a>
                                 </li>
                             </ul>
                         </div>
@@ -607,19 +607,19 @@
                             <h3>SEO Services</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="best seo company in sri lanka">Best SEO Company Sri Lanka</a>
+                                    <a href="best seo company in sri lanka.html">Best SEO Company Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo expert in srilanka">SEO Expert Sri Lanka</a>
+                                    <a href="seo expert in srilanka.html">SEO Expert Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo specialist sri lanka">SEO Specialist Sri Lanka</a>
+                                    <a href="seo specialist sri lanka.html">SEO Specialist Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo sri lanka">SEO Sri Lanka</a>
+                                    <a href="seo sri lanka.html">SEO Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="ai seo">AI SEO & GEO</a>
+                                    <a href="ai seo.html">AI SEO & GEO</a>
                                 </li>
                             </ul>
                         </div>
@@ -630,7 +630,7 @@
                             <h3>Contact SEO Expert</h3>
                             <ul class="footer-quick-links address-link">
                                 <li>
-                                    <a href="contact">
+                                    <a href="contact.html">
                                         <i class="fa fa-map-marker"></i>
                                         Sri Lanka
                                     </a>
@@ -682,10 +682,10 @@
                         <div class="col-lg-6 col-md-6">
                             <ul>
                                 <li>
-                                    <a href="about">Privacy Policy</a>
+                                    <a href="about.html">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="about">Terms & Conditions</a>
+                                    <a href="about.html">Terms & Conditions</a>
                                 </li>
                             </ul>
                         </div>

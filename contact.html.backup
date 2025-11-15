@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
@@ -36,21 +36,40 @@
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <title>Exto - SEO & Marketing Agency HTML Template</title>
+        <title>Contact SEO Consultant Sri Lanka | Buddhika S Weerasekara - Get Free SEO Analysis</title>
+        <meta name="description" content="Contact Buddhika S Weerasekara, the leading SEO Consultant in Sri Lanka. Get a free SEO analysis and consultation. Email: seo@inzra.com | Phone: +94-77-806-4714">
+        <meta name="keywords" content="Contact SEO Consultant Sri Lanka, SEO Consultation Sri Lanka, Free SEO Analysis, SEO Expert Contact">
+        <link rel="canonical" href="https://seoconsultantsrilanka.com/contact" />
+        
+        <!-- Open Graph -->
+        <meta property="og:title" content="Contact SEO Consultant Sri Lanka | Buddhika S Weerasekara">
+        <meta property="og:description" content="Get in touch with Sri Lanka's leading SEO consultant for professional SEO services and free consultation.">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://seoconsultantsrilanka.com/contact">
+        <meta property="og:image" content="https://seoconsultantsrilanka.com/assets/img/seo-logo.png">
+        
+        <!-- Additional SEO Meta -->
+        <meta name="author" content="Buddhika S Weerasekara">
+        <meta name="robots" content="index, follow">
+        <meta name="geo.region" content="LK">
+        <meta name="geo.placename" content="Sri Lanka">
 
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
         
         <style>
-            /* Logo Size Reduction - 2x smaller */
+            /* Scale logo down 2x (50% size) */
             .navbar-brand img,
             .exto-responsive-menu .logo img {
-                max-width: 80px !important;
+                max-width: 160px !important;
                 height: auto !important;
             }
             
-            .footer-area-content img {
-                max-width: 80px !important;
-                height: auto !important;
+            /* Hide Buy Now Button */
+            .buy-now,
+            [class*="buy"],
+            [href*="themeforest"],
+            a[href*="envato"] {
+                display: none !important;
             }
             
             /* Universe Animated Background */
@@ -186,7 +205,7 @@
                 <div class="container">
                     <div class="exto-responsive-menu">
                         <div class="logo">
-                            <a href="index">
+                            <a href="index.html">
                                 <img src="assets/img/seo logo.png" alt="logo">
                             </a>
                         </div>
@@ -197,33 +216,16 @@
             <div class="exto-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index">
+                        <a class="navbar-brand" href="index.html">
                             <img src="assets/img/seo logo.png" alt="logo">
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Home
-                                        <i class="fa fa-angle-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="index" class="nav-link">SaaS Home</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-2" class="nav-link">Marketing Home</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-3" class="nav-link">Startup Home</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="index-4" class="nav-link">SEO Agency Home</a>
-                                        </li>
-                                    </ul>
+                                    <a href="index.html" class="nav-link">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="about" class="nav-link">About</a>
+                                    <a href="about.html" class="nav-link">About</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
@@ -232,103 +234,23 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="services" class="nav-link">Service</a>
+                                            <a href="services.html" class="nav-link">Service</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-services" class="nav-link">Service Details</a>
+                                            <a href="single-services.html" class="nav-link">Service Details</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link active">
-                                        Projects 
-                                        <i class="fa fa-angle-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="projects" class="nav-link">Project</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="single-projects" class="nav-link active">Project Details</a>
-                                        </li>
-                                    </ul>
+                                    <a href="blog.html" class="nav-link">Blog</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Pages 
-                                        <i class="fa fa-angle-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="about" class="nav-link">About</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="team" class="nav-link">Team</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="faq" class="nav-link">FAQ</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="pricing" class="nav-link">Pricing</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="login" class="nav-link">Log in</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="signup" class="nav-link">Sign up</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="error-404" class="nav-link">404 Error</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="contact" class="nav-link">Contact</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="coming-soon" class="nav-link">Coming Soon</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Shop
-                                        <i class="fa fa-angle-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="shop" class="nav-link">Shop</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="single-product" class="nav-link">Single Products</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="cart" class="nav-link">Cart</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="checkout" class="nav-link">Checkout</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Blog
-                                        <i class="fa fa-angle-down"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="blog" class="nav-link">Blog</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="single-blog" class="nav-link">Blog Details</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="contact" class="nav-link">Contact</a>
+                                    <a href="contact.html" class="nav-link active">Contact</a>
                                 </li>
                             </ul>
 
                             <div class="others-options saas-option">
-                                <a class="saas-nav-btn" href="pricing">
+                                <a class="saas-nav-btn" href="pricing.html">
                                     Free Analysis
                                 </a>
                             </div>
@@ -341,16 +263,46 @@
 
         <!-- Start Page Title Area -->
         <div class="page-title-area">
+            <!-- Universe Stars -->
+            <div class="universe-stars" id="universe-stars-container"></div>
+            <script>
+                (function() {
+                    const container = document.getElementById('universe-stars-container');
+                    if (container) {
+                        for (let i = 0; i < 150; i++) {
+                            const star = document.createElement('div');
+                            star.className = 'universe-star';
+                            star.style.width = Math.random() * 2.5 + 'px';
+                            star.style.height = star.style.width;
+                            star.style.left = Math.random() * 100 + '%';
+                            star.style.top = Math.random() * 100 + '%';
+                            star.style.animationDuration = (Math.random() * 4 + 2) + 's';
+                            star.style.animationDelay = Math.random() * 4 + 's';
+                            container.appendChild(star);
+                        }
+                    }
+                })();
+            </script>
+            
+            <!-- Shooting Stars -->
+            <div class="universe-shooting-star" style="top: 15%; right: 25%; width: 120px; animation-delay: 0s;"></div>
+            <div class="universe-shooting-star" style="top: 35%; right: 55%; width: 90px; animation-delay: 2.5s;"></div>
+            <div class="universe-shooting-star" style="top: 65%; right: 15%; width: 110px; animation-delay: 5s;"></div>
+            
+            <!-- Planets -->
+            <div class="universe-planet universe-planet-1"></div>
+            <div class="universe-planet universe-planet-2"></div>
+            
             <div class="d-table">
                 <div class="d-table-cell">
                     <div class="container">
                         <div class="page-title-content">
-                            <h2>Projects Details</h2>
+                            <h2>Contact</h2>
                             <ul>
                                 <li>
-                                    <a href="index">Home</a>
+                                    <a href="index.html">Home</a>
                                 </li>
-                                <li>Projects Details</li>
+                                <li>Contact</li>
                             </ul>
                         </div>
                     </div>
@@ -359,117 +311,135 @@
         </div>
         <!-- End Page Title Area -->
 
-        <!-- Start Project Details Area -->
-		<section class="project-details-area ptb-100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="project-details-image">
-                            <img src="assets/img/services-details/1.jpg" alt="projects">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <div class="project-details-image">
-                            <img src="assets/img/services-details/2.jpg" alt="projects">
-                        </div>
-                    </div>
-                    <div class="col-lg-12 col-md-12">
-                        <div class="projects-details-desc">
-                            <h3>Competitor Analysis</h3>
-                            <p>Lorem ipsum dolor sit amet, conse cte tuer adipiscing elit, sed diam no nu m nibhie eui smod. Facil isis atve eros et accumsan etiu sto odi dignis sim qui blandit praesen lup ta de er. At molestiae appellantur pro. Vis wisi oportere per ic ula ad, ei latine prop riae na, mea cu purto debitis.</p>
-                            <div class="features-text">
-                                <h4>
-                                    <i class="flaticon-check-mark"></i>
-                                        Core Development
-                                    </h4>
-                                <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
-                            </div>
-                            <div class="features-text">
-                                <h4>
-                                    <i class="flaticon-check-mark"></i> 
-                                    Define Your Choices
-                                </h4>
-                                <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
-                            </div>
-                            <p>Nost rud no eos, no impedit dissenti as mea, ea vide labor amus neglegentur vix. Ancillae intellegat vix et. Sit causae laoreet nolu ise. Ad po exerci nusquam eos te. Cu altera expet enda qui, munere oblique theo phrastu ea vix. Ne nec modus civibus modera tius, sit ei lorem doctus. Ne docen di verterem reformidans eos. Cu altera expetenda qui, munere oblique theophr astus ea vix modus civiu mod eratius.</p>
-                            <div class="project-details-info">
-                                <div class="single-info-box">
-                                    <h4>Client</h4>
-                                    <span>James Anderson</span>
-                                </div>
-                                <div class="single-info-box">
-                                    <h4>Category</h4>
-                                    <span>Network, Marketing</span>
-                                </div>
-                                <div class="single-info-box">
-                                    <h4>Date</h4>
-                                    <span>February 28, 2024</span>
-                                </div>
-                                <div class="single-info-box">
-                                    <h4>Share</h4>
-                                    <ul class="social">
-                                        <li>
-                                            <a href="https://www.facebook.com/buddika.suresh/" target="_blank">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.twitter.com/" target="_blank">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <i class="fab fa-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.linkedin.com/in/seo-consultant-uae/" target="_blank">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="single-info-box">
-                                    <a href="single-product" class="default-btn">Live Preview</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-		<!-- End Project Details Area -->
-  
+        <!-- Start Contact Box Area -->
+		<section class="contact-box">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-4 col-md-6">
+						<div class="single-contact-box">
+							<i class="fa fa-map-marker"></i>
+							<div class="content-title">
+								<h3>Location</h3>
+								<p>Sri Lanka</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6">
+						<div class="single-contact-box">
+							<i class="fa fa-envelope"></i>
+							<div class="content-title">
+								<h3>Email</h3>
+								<a href="mailto:seo@inzra.com">seo@inzra.com</a>
+								<a href="mailto:inzrauae@gmail.com">inzrauae@gmail.com</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
+						<div class="single-contact-box">
+							<i class="fa fa-phone"></i>
+							<div class="content-title">
+								<h3>Phone</h3>
+								<a href="tel:+94778064714">+94 77 806 4714</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Contact Box Area -->
+
+        <!-- Start Contact Area -->
+		<section class="contact-area pb-100">
+			<div class="container">
+				<div class="section-title">
+					<h2>Get in Touch for Professional SEO Services</h2>
+					<p>Ready to rank higher on Google? Contact Buddhika S. Weerasekara for a free SEO consultation.</p>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="contact-form">
+							<form id="contactForm" action="assets/php/contact-form-process.php" method="POST">
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="form-group">
+                                            <input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Name">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    
+									<div class="col-lg-6">
+										<div class="form-group">
+                                            <input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Email">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    
+									<div class="col-lg-6">
+										<div class="form-group">
+                                            <input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Phone">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    
+									<div class="col-lg-6">
+										<div class="form-group">
+                                            <input type="text" name="subject" id="subject" required data-error="Please enter your subject" class="form-control" placeholder="Subject">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    
+									<div class="col-lg-12">
+										<div class="form-group">
+                                            <textarea name="message" class="form-control" id="message" cols="30" rows="6" required data-error="Write your message" placeholder="Your Message"></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    
+									<div class="col-lg-12">
+                                        <button type="submit" class="default-btn">Send Message</button>
+                                        
+                                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                        <div class="clearfix"></div>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Contact Area -->
+
         <!-- Start Footer Section -->
         <footer class="footer-section">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="footer-area-content">
-                            <img src="assets/img/seo logo.png" alt="SEO Consultant Sri Lanka" style="max-width: 160px;">
-                            <p>Professional SEO consulting services in Sri Lanka by Buddhika S Weerasekara. Expert SEO strategies for guaranteed Google rankings and business growth.</p>
+                            <img src="assets/img/seo logo.png" alt="SEO Consultant Sri Lanka">
+                            <p>Buddhika S. Weerasekara - No 1 SEO Consultant in Sri Lanka, specializing in SEO and GEO optimization for businesses of all sizes.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
-                            <h3>Company</h3>
+                            <h3>Quick Links</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="contact">Support Center</a>
+                                    <a href="index.html">Home</a>
                                 </li>
                                 <li>
-                                    <a href="services">Popular Campaign</a>
+                                    <a href="about.html">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="contact">Customer Support</a>
+                                    <a href="services.html">Services</a>
                                 </li>
                                 <li>
-                                    <a href="about">Copyright</a>
+                                    <a href="pricing.html">Pricing</a>
                                 </li>
                                 <li>
-                                    <a href="blog">Latest News</a>
+                                    <a href="blog.html">Blog</a>
                                 </li>
                             </ul>
                         </div>
@@ -477,22 +447,22 @@
 
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
-                            <h3>My Account</h3>
+                            <h3>Our Services</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="services">Speaker requests</a>
+                                    <a href="services.html">SEO Optimization</a>
                                 </li>
                                 <li>
-                                    <a href="services">Images and b-roll</a>
+                                    <a href="services.html">GEO (AI Search)</a>
                                 </li>
                                 <li>
-                                    <a href="services">Social media directories</a>
+                                    <a href="services.html">Local SEO</a>
                                 </li>
                                 <li>
-                                    <a href="services">Permissions</a>
+                                    <a href="services.html">Link Building</a>
                                 </li>
                                 <li>
-                                    <a href="services">Press inquiries</a>
+                                    <a href="services.html">Technical SEO</a>
                                 </li>
                             </ul>
                         </div>
@@ -503,9 +473,9 @@
                             <h3>Contact Information</h3>
                             <ul class="footer-quick-links address-link">
                                 <li>
-                                    <a href="contact">
-                                        <i class="fa fa-map-marker"></i>
-                                        Sri Lanka
+                                    <a href="tel:+94778064714">
+                                        <i class="fa fa-phone"></i>
+                                        +94 77 806 4714
                                     </a>
                                 </li>
                                 <li>
@@ -515,9 +485,9 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tel:+94778064714">
-                                        <i class="fa fa-phone"></i>
-                                        +94-77-806-4714
+                                    <a href="mailto:inzrauae@gmail.com">
+                                        <i class="fa fa-envelope"></i>
+                                        inzrauae@gmail.com
                                     </a>
                                 </li>
                             </ul>
@@ -528,18 +498,13 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.twitter.com/" class="twitter" target="_blank">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li>
                                     <a href="https://www.linkedin.com/in/seo-consultant-uae/" class="linkedin" target="_blank">
                                         <i class="fab fa-linkedin-in"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/" class="instagram" target="_blank">
-                                        <i class="fab fa-instagram"></i>
+                                    <a href="https://www.pinterest.com/" class="pinterest" target="_blank">
+                                        <i class="fab fa-pinterest"></i>
                                     </a>
                                 </li>
                             </ul>
@@ -555,10 +520,10 @@
                         <div class="col-lg-6 col-md-6">
                             <ul>
                                 <li>
-                                    <a href="about">Privacy Policy</a>
+                                    <a href="about.html">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="about">Terms & Conditions</a>
+                                    <a href="about.html">Terms & Conditions</a>
                                 </li>
                             </ul>
                         </div>
@@ -595,10 +560,10 @@
         <script src="assets/js/wow.min.js"></script>
         <!-- Form Validator JS -->
 		<script src="assets/js/form-validator.min.js"></script>
-        <!-- Ajaxchimp Min JS -->
-        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 		<!-- Contact JS -->
 		<script src="assets/js/contact-form-script.js"></script>
+        <!-- Ajaxchimp Min JS -->
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <!-- Particles JS -->
         <script src="assets/js/particles.min.js"></script>
         <!-- Progressbar Min JS -->

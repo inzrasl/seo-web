@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
@@ -186,7 +186,7 @@
                 <div class="container">
                     <div class="exto-responsive-menu">
                         <div class="logo">
-                            <a href="index">
+                            <a href="index.html">
                                 <img src="assets/img/seo logo.png" alt="logo">
                             </a>
                         </div>
@@ -197,7 +197,7 @@
             <div class="exto-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index">
+                        <a class="navbar-brand" href="index.html">
                             <img src="assets/img/seo logo.png" alt="logo">
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -209,21 +209,21 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="index" class="nav-link">SaaS Home</a>
+                                            <a href="index.html" class="nav-link">SaaS Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-2" class="nav-link">Marketing Home</a>
+                                            <a href="index-2.html" class="nav-link">Marketing Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-3" class="nav-link">Startup Home</a>
+                                            <a href="index-3.html" class="nav-link">Startup Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-4" class="nav-link">SEO Agency Home</a>
+                                            <a href="index-4.html" class="nav-link">SEO Agency Home</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="about" class="nav-link">About</a>
+                                    <a href="about.html" class="nav-link">About</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
@@ -232,10 +232,10 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="services" class="nav-link">Service</a>
+                                            <a href="services.html" class="nav-link">Service</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-services" class="nav-link">Service Details</a>
+                                            <a href="single-services.html" class="nav-link">Service Details</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -246,10 +246,10 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="projects" class="nav-link">Project</a>
+                                            <a href="projects.html" class="nav-link active">Project</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-projects" class="nav-link active">Project Details</a>
+                                            <a href="single-projects.html" class="nav-link">Project Details</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -260,31 +260,31 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="about" class="nav-link">About</a>
+                                            <a href="about.html" class="nav-link">About</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="team" class="nav-link">Team</a>
+                                            <a href="team.html" class="nav-link">Team</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="faq" class="nav-link">FAQ</a>
+                                            <a href="faq.html" class="nav-link">FAQ</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="pricing" class="nav-link">Pricing</a>
+                                            <a href="pricing.html" class="nav-link">Pricing</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="login" class="nav-link">Log in</a>
+                                            <a href="login.html" class="nav-link">Log in</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="signup" class="nav-link">Sign up</a>
+                                            <a href="signup.html" class="nav-link">Sign up</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="error-404" class="nav-link">404 Error</a>
+                                            <a href="error-404.html" class="nav-link">404 Error</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="contact" class="nav-link">Contact</a>
+                                            <a href="contact.html" class="nav-link">Contact</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="coming-soon" class="nav-link">Coming Soon</a>
+                                            <a href="coming-soon.html" class="nav-link">Coming Soon</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -295,16 +295,16 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="shop" class="nav-link">Shop</a>
+                                            <a href="shop.html" class="nav-link">Shop</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-product" class="nav-link">Single Products</a>
+                                            <a href="single-product.html" class="nav-link">Single Products</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="cart" class="nav-link">Cart</a>
+                                            <a href="cart.html" class="nav-link">Cart</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="checkout" class="nav-link">Checkout</a>
+                                            <a href="checkout.html" class="nav-link">Checkout</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -315,20 +315,20 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="blog" class="nav-link">Blog</a>
+                                            <a href="blog.html" class="nav-link">Blog</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-blog" class="nav-link">Blog Details</a>
+                                            <a href="single-blog.html" class="nav-link">Blog Details</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact" class="nav-link">Contact</a>
+                                    <a href="contact.html" class="nav-link">Contact</a>
                                 </li>
                             </ul>
 
                             <div class="others-options saas-option">
-                                <a class="saas-nav-btn" href="pricing">
+                                <a class="saas-nav-btn" href="pricing.html">
                                     Free Analysis
                                 </a>
                             </div>
@@ -345,12 +345,12 @@
                 <div class="d-table-cell">
                     <div class="container">
                         <div class="page-title-content">
-                            <h2>Projects Details</h2>
+                            <h2>Projects</h2>
                             <ul>
                                 <li>
-                                    <a href="index">Home</a>
+                                    <a href="index.html">Home</a>
                                 </li>
-                                <li>Projects Details</li>
+                                <li>Projects</li>
                             </ul>
                         </div>
                     </div>
@@ -359,88 +359,168 @@
         </div>
         <!-- End Page Title Area -->
 
-        <!-- Start Project Details Area -->
-		<section class="project-details-area ptb-100">
+        <!-- Start Project Section -->
+        <section class="project-section ptb-100">
             <div class="container">
+                <div class="project-title">
+                    <span>Our Project gallery</span>
+                    <h3>Meet our work experience from customers</h3>
+                    <div class="project-btn">
+                        <a href="single-projects.html" class="project-btn-one">Visit Gallery</a>
+                    </div>
+                </div>
+
                 <div class="row">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="project-details-image">
-                            <img src="assets/img/services-details/1.jpg" alt="projects">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-project-item">
+                            <img src="assets/img/project/4.jpg" alt="image">
+                            <div class="project-content">
+                                <h3>
+                                    <a href="single-projects.html">SEO Consultancy</a>
+                                </h3>
+                                <p>20, Deceember 2024</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6">
-                        <div class="project-details-image">
-                            <img src="assets/img/services-details/2.jpg" alt="projects">
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-project-item">
+                            <img src="assets/img/project/5.jpg" alt="image">
+                            <div class="project-content">
+                                <h3>
+                                    <a href="single-projects.html">Competitor Analysis</a>
+                                </h3>
+                                <p>20, Deceember 2024</p>
+                            </div>
                         </div>
                     </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-project-item">
+                            <img src="assets/img/project/6.jpg" alt="image">
+                            <div class="project-content">
+                                <h3>
+                                    <a href="single-projects.html">Social Media Marketing</a>
+                                </h3>
+                                <p>20, Deceember 2024</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-project-item">
+                            <img src="assets/img/project/7.jpg" alt="image">
+                            <div class="project-content">
+                                <h3>
+                                    <a href="single-projects.html">Strategic Planing</a>
+                                </h3>
+                                <p>20, Deceember 2024</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-project-item">
+                            <img src="assets/img/project/8.jpg" alt="image">
+                            <div class="project-content">
+                                <h3>
+                                    <a href="single-projects.html">Design & Development</a>
+                                </h3>
+                                <p>20, Deceember 2024</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="single-project-item">
+                            <img src="assets/img/project/9.jpg" alt="image">
+                            <div class="project-content">
+                                <h3>
+                                    <a href="single-projects.html">Technological Products</a>
+                                </h3>
+                                <p>20, Deceember 2024</p>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="col-lg-12 col-md-12">
-                        <div class="projects-details-desc">
-                            <h3>Competitor Analysis</h3>
-                            <p>Lorem ipsum dolor sit amet, conse cte tuer adipiscing elit, sed diam no nu m nibhie eui smod. Facil isis atve eros et accumsan etiu sto odi dignis sim qui blandit praesen lup ta de er. At molestiae appellantur pro. Vis wisi oportere per ic ula ad, ei latine prop riae na, mea cu purto debitis.</p>
-                            <div class="features-text">
-                                <h4>
-                                    <i class="flaticon-check-mark"></i>
-                                        Core Development
-                                    </h4>
-                                <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
-                            </div>
-                            <div class="features-text">
-                                <h4>
-                                    <i class="flaticon-check-mark"></i> 
-                                    Define Your Choices
-                                </h4>
-                                <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
-                            </div>
-                            <p>Nost rud no eos, no impedit dissenti as mea, ea vide labor amus neglegentur vix. Ancillae intellegat vix et. Sit causae laoreet nolu ise. Ad po exerci nusquam eos te. Cu altera expet enda qui, munere oblique theo phrastu ea vix. Ne nec modus civibus modera tius, sit ei lorem doctus. Ne docen di verterem reformidans eos. Cu altera expetenda qui, munere oblique theophr astus ea vix modus civiu mod eratius.</p>
-                            <div class="project-details-info">
-                                <div class="single-info-box">
-                                    <h4>Client</h4>
-                                    <span>James Anderson</span>
-                                </div>
-                                <div class="single-info-box">
-                                    <h4>Category</h4>
-                                    <span>Network, Marketing</span>
-                                </div>
-                                <div class="single-info-box">
-                                    <h4>Date</h4>
-                                    <span>February 28, 2024</span>
-                                </div>
-                                <div class="single-info-box">
-                                    <h4>Share</h4>
-                                    <ul class="social">
-                                        <li>
-                                            <a href="https://www.facebook.com/buddika.suresh/" target="_blank">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.twitter.com/" target="_blank">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.instagram.com/" target="_blank">
-                                                <i class="fab fa-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="https://www.linkedin.com/in/seo-consultant-uae/" target="_blank">
-                                                <i class="fab fa-linkedin-in"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="single-info-box">
-                                    <a href="single-product" class="default-btn">Live Preview</a>
-                                </div>
-                            </div>
+                        <div class="pagination-area">
+                            <a href="blog.html" class="prev page-numbers">
+                                <i class="fas fa-angle-double-left"></i>
+                            </a>
+                            <a href="blog.html" class="page-numbers">1</a>
+                            <span class="page-numbers current" aria-current="page">2</span>
+                            <a href="blog.html" class="page-numbers">3</a>
+                            <a href="blog.html" class="page-numbers">4</a>
+                            <a href="blog.html" class="next page-numbers">
+                                <i class="fas fa-angle-double-right"></i>
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-		<!-- End Project Details Area -->
-  
+        <!-- End Project Section -->
+
+        <!-- Start Partner Section -->
+        <div class="partner-section pb-100">
+            <div class="container">
+                <div class="partner-slider owl-carousel owl-theme">
+                    <div class="partner-item">
+                        <a href="about.html">
+                            <img src="assets/img/partnar/1.png" alt="partner">
+                        </a>
+                    </div>
+
+                    <div class="partner-item">
+                        <a href="about.html">
+                            <img src="assets/img/partnar/2.png" alt="partner">
+                        </a>
+                    </div>
+
+                    <div class="partner-item">
+                        <a href="about.html">
+                            <img src="assets/img/partnar/3.png" alt="partner">
+                        </a>
+                    </div>
+
+                    <div class="partner-item">
+                        <a href="about.html">
+                            <img src="assets/img/partnar/4.png" alt="partner">
+                        </a>
+                    </div>
+
+                    <div class="partner-item">
+                        <a href="about.html">
+                            <img src="assets/img/partnar/5.png" alt="partner">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Partner Section -->
+
+        <!-- Start Update Section -->
+        <section class="update-section inner-update-section ptb-100">
+            <div class="container">
+                <div class="update-title">
+                    <h3>Get Every Single Update</h3>
+                </div>
+                <form class="update-form">
+                    <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off">
+                    <button type="submit">Subscribe Newsletter</button>
+                    <div id="validator-newsletter" class="form-result"></div>
+                </form>
+            </div>
+            <div class="shape">
+                <img src="assets/img/shape/19.png" alt="Images">
+            </div>
+            <div class="shape-2">
+                <img src="assets/img/shape/20.png" alt="Images">
+            </div>
+        </section>
+        <!-- End Update Section -->
+
         <!-- Start Footer Section -->
         <footer class="footer-section">
             <div class="container">
@@ -457,19 +537,19 @@
                             <h3>Company</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="contact">Support Center</a>
+                                    <a href="contact.html">Support Center</a>
                                 </li>
                                 <li>
-                                    <a href="services">Popular Campaign</a>
+                                    <a href="services.html">Popular Campaign</a>
                                 </li>
                                 <li>
-                                    <a href="contact">Customer Support</a>
+                                    <a href="contact.html">Customer Support</a>
                                 </li>
                                 <li>
-                                    <a href="about">Copyright</a>
+                                    <a href="about.html">Copyright</a>
                                 </li>
                                 <li>
-                                    <a href="blog">Latest News</a>
+                                    <a href="blog.html">Latest News</a>
                                 </li>
                             </ul>
                         </div>
@@ -480,19 +560,19 @@
                             <h3>My Account</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="services">Speaker requests</a>
+                                    <a href="services.html">Speaker requests</a>
                                 </li>
                                 <li>
-                                    <a href="services">Images and b-roll</a>
+                                    <a href="services.html">Images and b-roll</a>
                                 </li>
                                 <li>
-                                    <a href="services">Social media directories</a>
+                                    <a href="services.html">Social media directories</a>
                                 </li>
                                 <li>
-                                    <a href="services">Permissions</a>
+                                    <a href="services.html">Permissions</a>
                                 </li>
                                 <li>
-                                    <a href="services">Press inquiries</a>
+                                    <a href="services.html">Press inquiries</a>
                                 </li>
                             </ul>
                         </div>
@@ -503,7 +583,7 @@
                             <h3>Contact Information</h3>
                             <ul class="footer-quick-links address-link">
                                 <li>
-                                    <a href="contact">
+                                    <a href="contact.html">
                                         <i class="fa fa-map-marker"></i>
                                         Sri Lanka
                                     </a>
@@ -555,10 +635,10 @@
                         <div class="col-lg-6 col-md-6">
                             <ul>
                                 <li>
-                                    <a href="about">Privacy Policy</a>
+                                    <a href="about.html">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="about">Terms & Conditions</a>
+                                    <a href="about.html">Terms & Conditions</a>
                                 </li>
                             </ul>
                         </div>

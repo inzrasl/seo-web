@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -47,7 +47,7 @@
       "@type": "BreadcrumbList",
       "itemListElement": [
         {"@type": "ListItem","position": 1,"name": "Home","item": "https://seoconsultantsrilanka.com"},
-        {"@type": "ListItem","position": 2,"name": "Blog","item": "https://seoconsultantsrilanka.com/blog"},
+        {"@type": "ListItem","position": 2,"name": "Blog","item": "https://seoconsultantsrilanka.com/blog.html"},
         {"@type": "ListItem","position": 3,"name": "SEO Agency Sri Lanka","item": "https://seoconsultantsrilanka.com/seo-agency-sri-lanka"}
       ]
     }
@@ -110,7 +110,7 @@
             <div class="container">
                 <div class="exto-responsive-menu">
                     <div class="logo">
-                        <a href="index">
+                        <a href="index.html">
                             <img src="assets/img/seo logo.png" class="main-logo" alt="SEO Agency Sri Lanka" style="max-width: 240px;">
                         </a>
                     </div>
@@ -120,7 +120,7 @@
         <div class="exto-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index">
+                    <a class="navbar-brand" href="index.html">
                         <img src="assets/img/seo logo.png" class="main-logo" alt="SEO Agency Sri Lanka">
                         <img src="assets/img/seo logo.png" class="white-logo" alt="SEO Partner Sri Lanka">
                     </a>
@@ -128,32 +128,32 @@
                         <ul class="navbar-nav">
                             <li class="nav-item"><a href="#" class="nav-link">Home <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item"><a href="index" class="nav-link">SaaS Home</a></li>
-                                    <li class="nav-item"><a href="index-2" class="nav-link">Marketing Home</a></li>
-                                    <li class="nav-item"><a href="index-3" class="nav-link">Startup Home</a></li>
-                                    <li class="nav-item"><a href="index-4" class="nav-link">SEO Agency Home</a></li>
+                                    <li class="nav-item"><a href="index.html" class="nav-link">SaaS Home</a></li>
+                                    <li class="nav-item"><a href="index-2.html" class="nav-link">Marketing Home</a></li>
+                                    <li class="nav-item"><a href="index-3.html" class="nav-link">Startup Home</a></li>
+                                    <li class="nav-item"><a href="index-4.html" class="nav-link">SEO Agency Home</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a href="about" class="nav-link">About</a></li>
+                            <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
                             <li class="nav-item"><a href="#" class="nav-link">Services <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item"><a href="services" class="nav-link">Service</a></li>
-                                    <li class="nav-item"><a href="single-services" class="nav-link">Service Details</a></li>
+                                    <li class="nav-item"><a href="services.html" class="nav-link">Service</a></li>
+                                    <li class="nav-item"><a href="single-services.html" class="nav-link">Service Details</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a href="#" class="nav-link">Projects <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item"><a href="projects" class="nav-link">Project</a></li>
-                                    <li class="nav-item"><a href="single-projects" class="nav-link">Project Details</a></li>
+                                    <li class="nav-item"><a href="projects.html" class="nav-link">Project</a></li>
+                                    <li class="nav-item"><a href="single-projects.html" class="nav-link">Project Details</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a href="#" class="nav-link active">Blog <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
-                                    <li class="nav-item"><a href="seo-agency-sri-lanka" class="nav-link active">SEO Agency Sri Lanka</a></li>
+                                    <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+                                    <li class="nav-item"><a href="seo-agency-sri-lanka.html" class="nav-link active">SEO Agency Sri Lanka</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a href="contact" class="nav-link">Contact</a></li>
+                            <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
                         </ul>
                         <div class="others-options startup-option">
                             <div class="language-list">
@@ -185,7 +185,7 @@
         <div class="universe-planet universe-planet-2"></div>
         <div class="d-table"><div class="d-table-cell"><div class="container"><div class="page-title-content">
             <h2>SEO Agency Sri Lanka</h2>
-            <ul><li><a href="index">Home</a></li><li><a href="blog">Blog</a></li><li>SEO Agency Sri Lanka</li></ul>
+            <ul><li><a href="index.html">Home</a></li><li><a href="blog.html">Blog</a></li><li>SEO Agency Sri Lanka</li></ul>
         </div></div></div></div>
     </div>
 
@@ -211,15 +211,15 @@
                             <h2>1. Why Partner with a Local SEO Agency in Sri Lanka?</h2>
                             <p>Hiring a Sri Lankan SEO agency offers specific advantages:</p>
                             <ul>
-                                <li><strong>Local Market Understanding:</strong> Agencies based in Sri Lanka understand language, search behavior, and cultural nuances — including <a href="seo-sri-lanka">Sinhala, Tamil, and English</a> queries.</li>
-                                <li><strong>Geographically Targeted SEO:</strong> Familiar with Colombo, Kandy, Galle — designing <a href="services">local SEO</a> strategies accordingly.</li>
+                                <li><strong>Local Market Understanding:</strong> Agencies based in Sri Lanka understand language, search behavior, and cultural nuances — including <a href="seo-sri-lanka.html">Sinhala, Tamil, and English</a> queries.</li>
+                                <li><strong>Geographically Targeted SEO:</strong> Familiar with Colombo, Kandy, Galle — designing <a href="services.html">local SEO</a> strategies accordingly.</li>
                                 <li><strong>Cost Efficiency:</strong> Often more competitive rates aligned to local conditions.</li>
                                 <li><strong>Effective Communication:</strong> Better time-zone alignment; face-to-face meetings possible.</li>
                                 <li><strong>Long-Term Partnerships:</strong> Community reputation and long-term client value.</li>
                             </ul>
 
                             <h2>2. Core SEO Services Offered by SEO Agencies in Sri Lanka</h2>
-                            <p>A professional Sri Lankan SEO agency typically provides a full suite of <a href="services">SEO services</a>, including:</p>
+                            <p>A professional Sri Lankan SEO agency typically provides a full suite of <a href="services.html">SEO services</a>, including:</p>
 
                             <h3>2.1 SEO Audit & Strategy</h3>
                             <p>Detailed audit to identify site issues, technical bottlenecks, content gaps, and backlink potential followed by a tailored roadmap.</p>
@@ -228,7 +228,7 @@
                             <p>Identify high-value, intent-driven, and local keywords relevant to Sri Lankan users.</p>
 
                             <h3>2.3 On-Page SEO</h3>
-                            <p>Optimizing meta tags, headings, URLs, <a href="services">internal linking</a>, and content relevance.</p>
+                            <p>Optimizing meta tags, headings, URLs, <a href="services.html">internal linking</a>, and content relevance.</p>
 
                             <h3>2.4 Technical SEO</h3>
                             <p>Ensure speed, mobile-first UX, HTTPS, proper architecture (XML sitemap, robots.txt), and schema markup.</p>
@@ -248,7 +248,7 @@
                             <h2>3. How to Choose the Best SEO Agency in Sri Lanka</h2>
                             <p>Evaluate agencies on:</p>
                             <h3>3.1 Proven Track Record & Portfolio</h3>
-                            <p>Look for case studies, testimonials, and similar-market results. See our <a href="best-seo-company-sri-lanka">best SEO company</a> guide.</p>
+                            <p>Look for case studies, testimonials, and similar-market results. See our <a href="best-seo-company-sri-lanka.html">best SEO company</a> guide.</p>
                             <h3>3.2 Local SEO Experience</h3>
                             <p>Nuanced understanding of language, competition, and regional search behavior.</p>
                             <h3>3.3 Transparency & Communication</h3>
@@ -329,13 +329,13 @@
                             </ol>
 
                             <h2>Conclusion</h2>
-                            <p>Choosing a reputable <strong>SEO agency in Sri Lanka</strong> is critical for sustainable online growth. Prioritize local expertise, proven results, transparent communication, and ethical practices. As <a href="what-is-seo">SEO</a> evolves with AI, voice, and EEAT, partnering with an agency that stays ahead of the curve provides a durable advantage. Whether you're a local SMB or national brand, investing in the right agency can unlock long-term results.</p>
+                            <p>Choosing a reputable <strong>SEO agency in Sri Lanka</strong> is critical for sustainable online growth. Prioritize local expertise, proven results, transparent communication, and ethical practices. As <a href="what-is-seo.html">SEO</a> evolves with AI, voice, and EEAT, partnering with an agency that stays ahead of the curve provides a durable advantage. Whether you're a local SMB or national brand, investing in the right agency can unlock long-term results.</p>
 
                             <div class="article-footer" style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #eee;">
-                                <p><strong>Need help choosing or want a second opinion?</strong> <a href="contact">Talk to an expert</a> for an unbiased roadmap tailored to your goals.</p>
+                                <p><strong>Need help choosing or want a second opinion?</strong> <a href="contact.html">Talk to an expert</a> for an unbiased roadmap tailored to your goals.</p>
                                 <p style="margin-top: 1.5rem;">
-                                    <a href="services" class="btn btn-primary" style="background: #2d5016; border: none; padding: 12px 30px; margin-right: 15px;">View SEO Services</a>
-                                    <a href="pricing" class="btn btn-secondary" style="padding: 12px 30px;">See Pricing</a>
+                                    <a href="services.html" class="btn btn-primary" style="background: #2d5016; border: none; padding: 12px 30px; margin-right: 15px;">View SEO Services</a>
+                                    <a href="pricing.html" class="btn btn-secondary" style="padding: 12px 30px;">See Pricing</a>
                                 </p>
                             </div>
                         </article>
@@ -347,32 +347,32 @@
                         <section class="widget widget-exto-posts-thumb">
                             <h3 class="widget-title">Related Articles</h3>
                             <div class="item">
-                                <a href="best-seo-company-sri-lanka" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo logo.png');"></span></a>
-                                <div class="info"><h4 class="title usmall"><a href="best-seo-company-sri-lanka">Best SEO Company Sri Lanka</a></h4><span>Selection Guide</span></div>
+                                <a href="best-seo-company-sri-lanka.html" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo logo.png');"></span></a>
+                                <div class="info"><h4 class="title usmall"><a href="best-seo-company-sri-lanka.html">Best SEO Company Sri Lanka</a></h4><span>Selection Guide</span></div>
                             </div>
                             <div class="item">
-                                <a href="seo-sri-lanka" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo logo.png');"></span></a>
-                                <div class="info"><h4 class="title usmall"><a href="seo-sri-lanka">SEO Sri Lanka</a></h4><span>Complete Guide</span></div>
+                                <a href="seo-sri-lanka.html" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo logo.png');"></span></a>
+                                <div class="info"><h4 class="title usmall"><a href="seo-sri-lanka.html">SEO Sri Lanka</a></h4><span>Complete Guide</span></div>
                             </div>
                             <div class="item">
-                                <a href="ai-seo" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo logo.png');"></span></a>
-                                <div class="info"><h4 class="title usmall"><a href="ai-seo">AI SEO – Complete Guide</a></h4><span>AI & GEO</span></div>
+                                <a href="ai-seo.html" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo logo.png');"></span></a>
+                                <div class="info"><h4 class="title usmall"><a href="ai-seo.html">AI SEO – Complete Guide</a></h4><span>AI & GEO</span></div>
                             </div>
                             <div class="item">
-                                <a href="services" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo/seo-services.jpg');"></span></a>
-                                <div class="info"><h4 class="title usmall"><a href="services">SEO Services</a></h4><span>Professional Help</span></div>
+                                <a href="services.html" class="thumb"><span class="fullimage cover" role="img" style="background-image: url('assets/img/seo/seo-services.jpg');"></span></a>
+                                <div class="info"><h4 class="title usmall"><a href="services.html">SEO Services</a></h4><span>Professional Help</span></div>
                             </div>
                         </section>
                         <section class="widget widget-tag-cloud">
                             <h3 class="widget-title">Agency Topics</h3>
                             <div class="tagcloud">
-                                <a href="services">SEO Agency</a>
-                                <a href="services">Local SEO</a>
-                                <a href="services">Technical SEO</a>
-                                <a href="best-seo-company-sri-lanka">SEO Company</a>
-                                <a href="about">SEO Consultant</a>
-                                <a href="pricing">SEO Pricing</a>
-                                <a href="contact">SEO Help</a>
+                                <a href="services.html">SEO Agency</a>
+                                <a href="services.html">Local SEO</a>
+                                <a href="services.html">Technical SEO</a>
+                                <a href="best-seo-company-sri-lanka.html">SEO Company</a>
+                                <a href="about.html">SEO Consultant</a>
+                                <a href="pricing.html">SEO Pricing</a>
+                                <a href="contact.html">SEO Help</a>
                             </div>
                         </section>
                         <section class="widget widget-contact" style="background: linear-gradient(135deg, #2d5016 0%, #3a6818 100%); padding: 30px; border-radius: 10px; color: white;">
@@ -383,7 +383,7 @@
                                 <li style="margin-bottom: 15px;"><a href="mailto:seo@inzra.com" style="color: white;"><i class="fa fa-envelope" style="margin-right: 10px;"></i> seo@inzra.com</a></li>
                                 <li><i class="fa fa-map-marker" style="margin-right: 10px;"></i> Sri Lanka</li>
                             </ul>
-                            <a href="contact" class="btn btn-light" style="width: 100%; padding: 12px; font-weight: 600;">Contact SEO Expert</a>
+                            <a href="contact.html" class="btn btn-light" style="width: 100%; padding: 12px; font-weight: 600;">Contact SEO Expert</a>
                         </section>
                     </aside>
                 </div>
@@ -404,11 +404,11 @@
                     <div class="single-footer-widget">
                         <h3>Quick Links</h3>
                         <ul class="footer-quick-links">
-                            <li><a href="index">Home</a></li>
-                            <li><a href="about">About Us</a></li>
-                            <li><a href="services">Services</a></li>
-                            <li><a href="pricing">Pricing</a></li>
-                            <li><a href="blog">Blog</a></li>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="pricing.html">Pricing</a></li>
+                            <li><a href="blog.html">Blog</a></li>
                         </ul>
                     </div>
                 </div>
@@ -416,11 +416,11 @@
                     <div class="single-footer-widget">
                         <h3>Our Services</h3>
                         <ul class="footer-quick-links">
-                            <li><a href="services">SEO Optimization</a></li>
-                            <li><a href="services">GEO (AI Search)</a></li>
-                            <li><a href="services">Local SEO</a></li>
-                            <li><a href="services">Link Building</a></li>
-                            <li><a href="services">Technical SEO</a></li>
+                            <li><a href="services.html">SEO Optimization</a></li>
+                            <li><a href="services.html">GEO (AI Search)</a></li>
+                            <li><a href="services.html">Local SEO</a></li>
+                            <li><a href="services.html">Link Building</a></li>
+                            <li><a href="services.html">Technical SEO</a></li>
                         </ul>
                     </div>
                 </div>
@@ -443,7 +443,7 @@
             <div class="copyright-area">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6"><p>© 2025 SEO Agency Sri Lanka Guide. All Rights Reserved by Buddhika S Weerasekara</p></div>
-                    <div class="col-lg-6 col-md-6"><ul><li><a href="about">Privacy Policy</a></li><li><a href="about">Terms & Conditions</a></li></ul></div>
+                    <div class="col-lg-6 col-md-6"><ul><li><a href="about.html">Privacy Policy</a></li><li><a href="about.html">Terms & Conditions</a></li></ul></div>
                 </div>
             </div>
         </div>

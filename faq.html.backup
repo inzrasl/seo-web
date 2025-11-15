@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
@@ -132,7 +132,7 @@
                 <div class="container">
                     <div class="exto-responsive-menu">
                         <div class="logo">
-                            <a href="index">
+                            <a href="index.html">
                                 <img src="assets/img/seo logo.png" alt="logo" style="max-width: 150px;">
                             </a>
                         </div>
@@ -143,16 +143,16 @@
             <div class="exto-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index">
+                        <a class="navbar-brand" href="index.html">
                             <img src="assets/img/seo logo.png" alt="logo" style="max-width: 150px;">
                         </a>
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a href="index" class="nav-link">Home</a>
+                                    <a href="index.html" class="nav-link">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="about" class="nav-link">About</a>
+                                    <a href="about.html" class="nav-link">About</a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
@@ -161,23 +161,23 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="services" class="nav-link">Service</a>
+                                            <a href="services.html" class="nav-link">Service</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="single-services" class="nav-link">Service Details</a>
+                                            <a href="single-services.html" class="nav-link">Service Details</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="blog" class="nav-link">Blog</a>
+                                    <a href="blog.html" class="nav-link">Blog</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="contact" class="nav-link">Contact</a>
+                                    <a href="contact.html" class="nav-link">Contact</a>
                                 </li>
                             </ul>
 
                             <div class="others-options saas-option">
-                                <a class="saas-nav-btn" href="pricing">
+                                <a class="saas-nav-btn" href="pricing.html">
                                     Free Analysis
                                 </a>
                             </div>
@@ -275,7 +275,7 @@
                             <h2>FAQ</h2>
                             <ul>
                                 <li>
-                                    <a href="index">Home</a>
+                                    <a href="index.html">Home</a>
                                 </li>
                                 <li>FAQ</li>
                             </ul>
@@ -303,7 +303,7 @@
                                 Q1: What is SEO?
                             </a>
                             <p class="accordion-content show">
-                                <strong>Answer:</strong> <a href="what-is-seo">SEO</a> stands for <em>Search Engine Optimization</em>. It is the practice of optimizing a website so that it ranks higher on search engines like Google, Bing, and AI-powered platforms such as ChatGPT and Gemini. Proper SEO helps attract organic traffic, increase visibility, and generate leads. <strong><a href="about">Buddhika S Weerasekara</a></strong> recommends combining both traditional and <a href="ai-seo">AI-based SEO techniques</a> for best results.
+                                <strong>Answer:</strong> <a href="what-is-seo.html">SEO</a> stands for <em>Search Engine Optimization</em>. It is the practice of optimizing a website so that it ranks higher on search engines like Google, Bing, and AI-powered platforms such as ChatGPT and Gemini. Proper SEO helps attract organic traffic, increase visibility, and generate leads. <strong><a href="about.html">Buddhika S Weerasekara</a></strong> recommends combining both traditional and <a href="ai-seo.html">AI-based SEO techniques</a> for best results.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -312,7 +312,7 @@
                                 Q2: What does SEO stand for?
                             </a>
                             <p class="accordion-content">
-                                SEO = <em>Search Engine Optimization</em>. It involves techniques like keyword research, on-page optimization, technical SEO, link building, and content creation to improve search engine rankings. Learn more: <a href="what-does-seo-stand-for">What Does SEO Stand For</a>.
+                                SEO = <em>Search Engine Optimization</em>. It involves techniques like keyword research, on-page optimization, technical SEO, link building, and content creation to improve search engine rankings. Learn more: <a href="what-does-seo-stand-for.html">What Does SEO Stand For</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -321,7 +321,7 @@
                                 Q3: How to become a SEO specialist?
                             </a>
                             <p class="accordion-content">
-                                To become an <a href="seo-specialist-sri-lanka">SEO specialist</a>, you should: Learn the basics of search engines and ranking factors, practice keyword research and on-page SEO, understand technical SEO and analytics, stay updated with Google algorithm updates, and work with an experienced mentor, like <strong><a href="about">Buddhika S Weerasekara</a></strong>, to gain practical experience. Read our complete guide: <a href="how-to-become-seo-specialist">How to Become SEO Specialist</a>.
+                                To become an <a href="seo-specialist-sri-lanka.html">SEO specialist</a>, you should: Learn the basics of search engines and ranking factors, practice keyword research and on-page SEO, understand technical SEO and analytics, stay updated with Google algorithm updates, and work with an experienced mentor, like <strong><a href="about.html">Buddhika S Weerasekara</a></strong>, to gain practical experience. Read our complete guide: <a href="how-to-become-seo-specialist.html">How to Become SEO Specialist</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -330,7 +330,7 @@
                                 Q4: How to do SEO for a website?
                             </a>
                             <p class="accordion-content">
-                                Steps to optimize a website: Conduct a full website SEO audit, perform keyword research and selection, optimize meta titles, descriptions, and headings, ensure fast page speed and mobile optimization, build quality backlinks, create authoritative, engaging content, and track performance using analytics. Get professional help: <a href="services">SEO Services</a>.
+                                Steps to optimize a website: Conduct a full website SEO audit, perform keyword research and selection, optimize meta titles, descriptions, and headings, ensure fast page speed and mobile optimization, build quality backlinks, create authoritative, engaging content, and track performance using analytics. Get professional help: <a href="services.html">SEO Services</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -339,7 +339,7 @@
                                 Q5: How to SEO a WordPress website?
                             </a>
                             <p class="accordion-content">
-                                SEO for WordPress websites includes: Installing SEO plugins like Yoast or RankMath, optimizing titles, headings, and URLs, improving page speed using caching & image optimization, creating internal links and a sitemap, and using schema markup for better AI search visibility. Contact us for <a href="contact">WordPress SEO consultation</a>.
+                                SEO for WordPress websites includes: Installing SEO plugins like Yoast or RankMath, optimizing titles, headings, and URLs, improving page speed using caching & image optimization, creating internal links and a sitemap, and using schema markup for better AI search visibility. Contact us for <a href="contact.html">WordPress SEO consultation</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -348,7 +348,7 @@
                                 Q6: What is on-page SEO?
                             </a>
                             <p class="accordion-content">
-                                On-page SEO refers to optimizing individual pages on your website, including: Meta titles and descriptions, heading structure (H1, H2, H3), internal linking, image alt text, and content relevance and keyword placement. Learn more at our <a href="services">SEO Services page</a>.
+                                On-page SEO refers to optimizing individual pages on your website, including: Meta titles and descriptions, heading structure (H1, H2, H3), internal linking, image alt text, and content relevance and keyword placement. Learn more at our <a href="services.html">SEO Services page</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -357,7 +357,7 @@
                                 Q7: How does SEO work?
                             </a>
                             <p class="accordion-content">
-                                SEO works by helping search engines understand your website content and its relevance to user queries. This includes optimizing: Website structure, keywords and content, technical performance, backlinks and authority, and user experience. Explore our <a href="seo-sri-lanka">SEO Sri Lanka guide</a>.
+                                SEO works by helping search engines understand your website content and its relevance to user queries. This includes optimizing: Website structure, keywords and content, technical performance, backlinks and authority, and user experience. Explore our <a href="seo-sri-lanka.html">SEO Sri Lanka guide</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -366,7 +366,7 @@
                                 Q8: How long does SEO take to work?
                             </a>
                             <p class="accordion-content">
-                                SEO is a long-term strategy. Typical results can take: 3–6 months for new websites, 1–3 months for established websites, and continuous improvement for sustained rankings. <strong><a href="about">Buddhika S Weerasekara</a></strong> recommends monitoring monthly performance and adjusting strategies regularly. Full guide: <a href="how-long-does-seo-take">How Long Does SEO Take</a>.
+                                SEO is a long-term strategy. Typical results can take: 3–6 months for new websites, 1–3 months for established websites, and continuous improvement for sustained rankings. <strong><a href="about.html">Buddhika S Weerasekara</a></strong> recommends monitoring monthly performance and adjusting strategies regularly. Full guide: <a href="how-long-does-seo-take.html">How Long Does SEO Take</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -375,7 +375,7 @@
                                 Q9: How to check SEO of a website?
                             </a>
                             <p class="accordion-content">
-                                Use tools like Google Search Console, Ahrefs, SEMrush, or Moz to analyze: Keyword rankings, backlink profile, page speed, on-page SEO health, and traffic sources. Get a professional <a href="contact">SEO audit</a> today.
+                                Use tools like Google Search Console, Ahrefs, SEMrush, or Moz to analyze: Keyword rankings, backlink profile, page speed, on-page SEO health, and traffic sources. Get a professional <a href="contact.html">SEO audit</a> today.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -384,7 +384,7 @@
                                 Q10: What is local SEO?
                             </a>
                             <p class="accordion-content">
-                                Local SEO helps businesses appear in location-based searches, e.g., "<a href="seo-sri-lanka">SEO consultant in Colombo</a>." Key factors include: Google Business Profile optimization, local keywords and city-based content, NAP consistency (Name, Address, Phone), and customer reviews and ratings.
+                                Local SEO helps businesses appear in location-based searches, e.g., "<a href="seo-sri-lanka.html">SEO consultant in Colombo</a>." Key factors include: Google Business Profile optimization, local keywords and city-based content, NAP consistency (Name, Address, Phone), and customer reviews and ratings.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -393,7 +393,7 @@
                                 Q11: What is technical SEO?
                             </a>
                             <p class="accordion-content">
-                                Technical SEO ensures your website is optimized for search engines to crawl, index, and rank efficiently: Website structure and XML sitemaps, page speed optimization, mobile responsiveness, secure HTTPS encryption, and structured data / schema markup. Explore our <a href="services">technical SEO services</a>.
+                                Technical SEO ensures your website is optimized for search engines to crawl, index, and rank efficiently: Website structure and XML sitemaps, page speed optimization, mobile responsiveness, secure HTTPS encryption, and structured data / schema markup. Explore our <a href="services.html">technical SEO services</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -402,7 +402,7 @@
                                 Q12: What is the difference between SEO and SEM?
                             </a>
                             <p class="accordion-content">
-                                SEO (Search Engine Optimization) = Organic traffic growth through optimization. SEM (Search Engine Marketing) = Paid advertising like Google Ads. Both can work together for a comprehensive digital marketing strategy. Contact us for <a href="contact">SEO & SEM consultation</a>.
+                                SEO (Search Engine Optimization) = Organic traffic growth through optimization. SEM (Search Engine Marketing) = Paid advertising like Google Ads. Both can work together for a comprehensive digital marketing strategy. Contact us for <a href="contact.html">SEO & SEM consultation</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -411,7 +411,7 @@
                                 Q13: Why is SEO important for business?
                             </a>
                             <p class="accordion-content">
-                                SEO increases visibility, attracts targeted traffic, improves credibility, and boosts sales. Businesses using professional SEO, like services by <strong><a href="about">Buddhika S Weerasekara</a></strong>, achieve higher ROI from online marketing. Learn more about our <a href="best-seo-company-sri-lanka">SEO company in Sri Lanka</a>.
+                                SEO increases visibility, attracts targeted traffic, improves credibility, and boosts sales. Businesses using professional SEO, like services by <strong><a href="about.html">Buddhika S Weerasekara</a></strong>, achieve higher ROI from online marketing. Learn more about our <a href="best-seo-company-sri-lanka.html">SEO company in Sri Lanka</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -420,7 +420,7 @@
                                 Q14: How much does SEO cost?
                             </a>
                             <p class="accordion-content">
-                                SEO pricing depends on the scope of services. Typical ranges in Sri Lanka: Consultation: LKR 25,000, Basic monthly SEO: LKR 35,000–50,000, Advanced SEO with GEO (AI Search Optimization): LKR 99,000+. Check our <a href="seo-price-in-sri-lanka">SEO pricing packages</a>.
+                                SEO pricing depends on the scope of services. Typical ranges in Sri Lanka: Consultation: LKR 25,000, Basic monthly SEO: LKR 35,000–50,000, Advanced SEO with GEO (AI Search Optimization): LKR 99,000+. Check our <a href="seo-price-in-sri-lanka.html">SEO pricing packages</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -429,7 +429,7 @@
                                 Q15: How to become an SEO professional or analyst?
                             </a>
                             <p class="accordion-content">
-                                Steps to become an SEO professional: Learn SEO fundamentals (on-page, off-page, technical), practice with real websites, stay updated with algorithm changes, take certifications or online courses, and gain experience under a mentor like <strong><a href="about">Buddhika S Weerasekara</a></strong>. Complete career guide: <a href="how-to-become-seo-specialist">How to Become SEO Specialist</a>.
+                                Steps to become an SEO professional: Learn SEO fundamentals (on-page, off-page, technical), practice with real websites, stay updated with algorithm changes, take certifications or online courses, and gain experience under a mentor like <strong><a href="about.html">Buddhika S Weerasekara</a></strong>. Complete career guide: <a href="how-to-become-seo-specialist.html">How to Become SEO Specialist</a>.
                             </p>
                         </li>
                         <li class="accordion-item">
@@ -439,10 +439,10 @@
                             </a>
                             <p class="accordion-content">
                                 Test your knowledge as an SEO consultant:<br>
-                                <strong>Q: What does GEO stand for?</strong> A: <a href="ai-seo">Generative Engine Optimization</a><br>
-                                <strong>Q: Which is faster: AI SEO or traditional SEO?</strong> A: <a href="ai-seo">AI SEO</a><br>
+                                <strong>Q: What does GEO stand for?</strong> A: <a href="ai-seo.html">Generative Engine Optimization</a><br>
+                                <strong>Q: Which is faster: AI SEO or traditional SEO?</strong> A: <a href="ai-seo.html">AI SEO</a><br>
                                 <strong>Q: Name 3 important factors in technical SEO.</strong> A: Site speed, mobile responsiveness, structured data<br>
-                                <strong>Q: Who is an expert SEO consultant in Sri Lanka?</strong> A: <a href="about">Buddhika S Weerasekara</a>
+                                <strong>Q: Who is an expert SEO consultant in Sri Lanka?</strong> A: <a href="about.html">Buddhika S Weerasekara</a>
                             </p>
                         </li>
                     </ul>
@@ -528,19 +528,19 @@
                             <h3>Company</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="contact">Support Center</a>
+                                    <a href="contact.html">Support Center</a>
                                 </li>
                                 <li>
-                                    <a href="services">Popular Campaign</a>
+                                    <a href="services.html">Popular Campaign</a>
                                 </li>
                                 <li>
-                                    <a href="contact">Customer Support</a>
+                                    <a href="contact.html">Customer Support</a>
                                 </li>
                                 <li>
-                                    <a href="about">Copyright</a>
+                                    <a href="about.html">Copyright</a>
                                 </li>
                                 <li>
-                                    <a href="blog">Latest News</a>
+                                    <a href="blog.html">Latest News</a>
                                 </li>
                             </ul>
                         </div>
@@ -551,19 +551,19 @@
                             <h3>SEO Services</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="best seo company in sri lanka">Best SEO Company Sri Lanka</a>
+                                    <a href="best seo company in sri lanka.html">Best SEO Company Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo expert in srilanka">SEO Expert Sri Lanka</a>
+                                    <a href="seo expert in srilanka.html">SEO Expert Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo specialist sri lanka">SEO Specialist Sri Lanka</a>
+                                    <a href="seo specialist sri lanka.html">SEO Specialist Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo sri lanka">SEO Sri Lanka</a>
+                                    <a href="seo sri lanka.html">SEO Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="ai seo">AI SEO & GEO</a>
+                                    <a href="ai seo.html">AI SEO & GEO</a>
                                 </li>
                             </ul>
                         </div>
@@ -574,7 +574,7 @@
                             <h3>Our Information</h3>
                             <ul class="footer-quick-links address-link">
                                 <li>
-                                    <a href="contact">
+                                    <a href="contact.html">
                                         <i class="fa fa-map-marker"></i>
                                         121 King St, VIC 3000, Australia
                                     </a>
@@ -626,10 +626,10 @@
                         <div class="col-lg-6 col-md-6">
                             <ul>
                                 <li>
-                                    <a href="about">Privacy Policy</a>
+                                    <a href="about.html">Privacy Policy</a>
                                 </li>
                                 <li>
-                                    <a href="about">Terms & Conditions</a>
+                                    <a href="about.html">Terms & Conditions</a>
                                 </li>
                             </ul>
                         </div>
