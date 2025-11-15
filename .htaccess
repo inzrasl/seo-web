@@ -198,6 +198,13 @@ ServerSignature Off
 </IfModule>
 
 # ================================================
+# CUSTOM REDIRECTS
+# ================================================
+# Redirect best-seo-company-in-sri-lanka to seo-specialist-sri-lanka
+Redirect 301 /best-seo-company-in-sri-lanka /seo-specialist-sri-lanka
+Redirect 301 /best-seo-company-in-sri-lanka/ /seo-specialist-sri-lanka
+
+# ================================================
 # REMOVE .HTML EXTENSION FROM URLS
 # ================================================
 # Redirect .html URLs to extensionless versions
