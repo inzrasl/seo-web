@@ -1,0 +1,20 @@
+# Robots.txt with Security Best Practices
+User-agent: *
+Disallow: /assets/php/
+Disallow: /admin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /logs/
+Disallow: /*.backup$
+Disallow: /*.bak$
+Disallow: /*.log$
+Disallow: /*.sql$
+Disallow: /*.env$
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/img/
+Allow: /assets/fonts/
+Allow: /assets/webfonts/
+
+# Sitemap
+Sitemap: https://seoconsultantsrilanka.com/sitemap.xml
