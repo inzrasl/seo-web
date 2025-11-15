@@ -6,11 +6,32 @@
 RewriteEngine On
 
 # ================================================
+# ALLOW SEARCH ENGINE ACCESS TO SEO FILES
+# ================================================
+
+# Allow access to sitemap.xml and robots.txt for all
+<FilesMatch "^(sitemap\.xml|robots\.txt)$">
+    Order Allow,Deny
+    Allow from all
+    Satisfy Any
+</FilesMatch>
+
+# Allow assets/sitemap.xml access
+<Files "sitemap.xml">
+    Order Allow,Deny
+    Allow from all
+</Files>
+
+# ================================================
 # BLOCK MALICIOUS TRAFFIC & BOT PROTECTION
 # ================================================
 
-# Block bad bots and scrapers
-RewriteCond %{HTTP_USER_AGENT} ^.*(bot|crawl|spider|scrape|harvest|extract|grab|siphon|scan|wget|curl|libwww|python|nikto|wpscan|sqlmap|havij|acunetix).* [NC]
+# Allow legitimate search engine bots (Google, Bing, Yahoo, etc.)
+RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|duckduckbot|baiduspider|yandexbot|facebookexternalhit) [NC]
+RewriteRule .* - [S=1]
+
+# Block bad bots and scrapers (but not legitimate search engines)
+RewriteCond %{HTTP_USER_AGENT} ^.*(scrape|harvest|extract|grab|siphon|scan|wget|curl|libwww|python|nikto|wpscan|sqlmap|havij|acunetix).* [NC]
 RewriteRule ^(.*)$ - [F,L]
 
 # Block suspicious requests

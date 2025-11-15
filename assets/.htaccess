@@ -1,0 +1,12 @@
+# Allow access to all files in assets folder for search engines
+<FilesMatch "\.(xml|txt|png|jpg|jpeg|gif|svg|css|js|woff|woff2|ttf|eot)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
+# Ensure sitemap.xml is accessible
+<Files "sitemap.xml">
+    Order Allow,Deny
+    Allow from all
+    Require all granted
+</Files>
