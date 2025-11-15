@@ -1,0 +1,15 @@
+/* Custom Modern Navbar */
+body { padding-top: 92px; }
+nav#main-navbar.modern-navbar { position:fixed; top:0; left:0; width:100%; z-index:1000; background:linear-gradient(135deg,#0f172a 0%, #1e293b 60%, #334155 100%); box-shadow:0 4px 18px -4px rgba(0,0,0,0.5); backdrop-filter:blur(6px); -webkit-backdrop-filter:blur(6px); border-bottom:1px solid rgba(255,255,255,0.06); }
+nav#main-navbar .nav-inner { max-width:1200px; margin:0 auto; padding:12px 28px; display:flex; align-items:center; position:relative; }
+nav#main-navbar .brand img { max-height:58px; width:auto; display:block; filter:drop-shadow(0 2px 4px rgba(0,0,0,0.35)); }
+nav#main-navbar .nav-menu { list-style:none; margin:0; padding:0; display:flex; gap:34px; position:absolute; left:50%; transform:translateX(-50%); }
+nav#main-navbar .nav-menu a { color:#f1f5f9; font-weight:600; font-size:15px; text-decoration:none; padding:10px 4px; position:relative; letter-spacing:.3px; transition:color .25s ease; }
+nav#main-navbar .nav-menu a::after { content:""; position:absolute; left:0; bottom:4px; height:2px; width:0; background:#38bdf8; border-radius:2px; transition:width .3s ease; }
+nav#main-navbar .nav-menu a:hover { color:#38bdf8; }
+nav#main-navbar .nav-menu a:hover::after, nav#main-navbar .nav-menu a.active::after { width:100%; }
+nav#main-navbar .report-btn { margin-left:auto; background:linear-gradient(90deg,#0ea5e9,#06b6d4,#10b981); color:#ffffff; font-weight:600; padding:12px 26px; border-radius:30px; text-decoration:none; display:inline-flex; align-items:center; gap:8px; box-shadow:0 4px 14px -4px rgba(0,0,0,.4); transition:all .35s ease; position:relative; overflow:hidden; }
+nav#main-navbar .report-btn::before { content:""; position:absolute; inset:0; background:linear-gradient(135deg,rgba(255,255,255,0.15),rgba(255,255,255,0)); opacity:0; transition:opacity .35s ease; }
+nav#main-navbar .report-btn:hover { transform:translateY(-3px); box-shadow:0 10px 25px -6px rgba(0,0,0,.55); }
+nav#main-navbar .report-btn:hover::before { opacity:1; }
+@media (max-width:992px){ nav#main-navbar .nav-menu { display:none; } nav#main-navbar .report-btn { margin-left:16px; } }
