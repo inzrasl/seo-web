@@ -204,6 +204,14 @@ ServerSignature Off
 Redirect 301 /best-seo-company-in-sri-lanka /seo-specialist-sri-lanka
 Redirect 301 /best-seo-company-in-sri-lanka/ /seo-specialist-sri-lanka
 
+# Redirect old space-slug URLs to hyphen-slug equivalents
+# Note: Patterns match URL-decoded paths
+RedirectMatch 301 ^/ai\sseo/?$ /ai-seo
+RedirectMatch 301 ^/best\sseo\scompany\sin\ssri\slanka/?$ /best-seo-company-sri-lanka
+RedirectMatch 301 ^/seo\sexpert\sin\ssrilanka/?$ /seo-expert-sri-lanka
+RedirectMatch 301 ^/seo\sspecialist\ssri\slanka/?$ /seo-specialist-sri-lanka
+RedirectMatch 301 ^/seo\ssri\slanka/?$ /seo-sri-lanka
+
 # ================================================
 # REMOVE .HTML EXTENSION FROM URLS
 # ================================================
