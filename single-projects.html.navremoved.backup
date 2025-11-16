@@ -1,9 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
         <!-- Bootstrap Min CSS -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <!-- Animate Min CSS -->
@@ -34,18 +35,24 @@
         <link rel="stylesheet" href="assets/css/dark.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
+
         <title>Exto - SEO & Marketing Agency HTML Template</title>
+
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
+        
         <style>
             /* Logo Size Reduction - 2x smaller */
+            .navbar-brand img,
             .exto-responsive-menu .logo img {
                 max-width: 80px !important;
                 height: auto !important;
             }
+            
             .footer-area-content img {
                 max-width: 80px !important;
                 height: auto !important;
             }
+            
             /* Universe Animated Background */
             .page-title-area {
                 position: relative;
@@ -53,6 +60,7 @@
                 background: radial-gradient(ellipse at bottom, #0d1b2a 0%, #000000 100%);
                 min-height: 400px;
             }
+            
             /* Stars */
             .universe-stars {
                 position: absolute;
@@ -63,16 +71,19 @@
                 pointer-events: none;
                 z-index: 1;
             }
+            
             .universe-star {
                 position: absolute;
                 background: white;
                 border-radius: 50%;
                 animation: twinkleUniverse linear infinite;
             }
+            
             @keyframes twinkleUniverse {
                 0%, 100% { opacity: 0.3; transform: scale(0.8); }
                 50% { opacity: 1; transform: scale(1.2); }
             }
+            
             /* Shooting Stars */
             .universe-shooting-star {
                 position: absolute;
@@ -81,6 +92,7 @@
                 animation: shootUniverse 4s linear infinite;
                 z-index: 1;
             }
+            
             @keyframes shootUniverse {
                 0% {
                     transform: translateX(0) translateY(0);
@@ -91,6 +103,7 @@
                     opacity: 0;
                 }
             }
+            
             /* Nebula Effect */
             .page-title-area::before {
                 content: '';
@@ -106,10 +119,12 @@
                 animation: nebulaFloat 15s ease-in-out infinite alternate;
                 z-index: 1;
             }
+            
             @keyframes nebulaFloat {
                 0% { opacity: 0.4; transform: scale(1) rotate(0deg); }
                 100% { opacity: 0.7; transform: scale(1.15) rotate(5deg); }
             }
+            
             /* Planets */
             .universe-planet {
                 position: absolute;
@@ -117,6 +132,7 @@
                 z-index: 2;
                 pointer-events: none;
             }
+            
             .universe-planet-1 {
                 width: 150px;
                 height: 150px;
@@ -126,6 +142,7 @@
                 box-shadow: 0 0 50px rgba(147, 51, 234, 0.5);
                 animation: orbitUniverse 20s linear infinite;
             }
+            
             .universe-planet-2 {
                 width: 100px;
                 height: 100px;
@@ -135,92 +152,48 @@
                 box-shadow: 0 0 40px rgba(59, 130, 246, 0.5);
                 animation: orbitUniverse 25s linear infinite reverse;
             }
+            
             @keyframes orbitUniverse {
                 0% { transform: rotate(0deg) translateX(15px) rotate(0deg); }
                 100% { transform: rotate(360deg) translateX(15px) rotate(-360deg); }
             }
+            
             /* Content positioning */
             .page-title-area .d-table {
                 position: relative;
                 z-index: 10;
             }
+            
             .page-title-content h2 {
                 color: #ffffff;
                 text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
             }
+            
             .page-title-content ul li {
                 color: #cbd5e1;
             }
+            
             .page-title-content ul li a {
                 color: #60a5fa;
             }
         </style>
-        <link rel="stylesheet" href="assets/css/header.css">
-</head>
-<body>
-<!-- Reusable Header Component (static HTML version of provided React idea) -->
-<header id="site-header" class="site-header" aria-label="Primary Header">
-  <nav class="nav-wrap" aria-label="Primary Navigation">
-    <div class="nav-inner">
-      <!-- Logo / Brand -->
-      <a class="brand" href="/" aria-label="Home">
-        <div class="brand-mark">
-          <span>L</span>
-        </div>
-        <img class="brand-logo" src="assets/img/seo logo.png" alt="SEO Consultant Sri Lanka Logo">
-        <span class="brand-text">SEO Consultant</span>
-      </a>
-      <!-- Desktop Menu -->
-      <ul class="menu" role="menubar">
-        <li role="none"><a role="menuitem" href="/">Home</a></li>
-        <li role="none"><a role="menuitem" href="about">About Us</a></li>
-        <li role="none"><a role="menuitem" href="services">Services</a></li>
-        <li role="none"><a role="menuitem" href="projects">Portfolio</a></li>
-        <li role="none"><a role="menuitem" href="pricing">Pricing</a></li>
-        <li role="none"><a role="menuitem" href="faq">FAQ</a></li>
-        <li role="none"><a role="menuitem" href="blog">Blog</a></li>
-        <li role="none"><a role="menuitem" href="contact">Contact</a></li>
-      </ul>
-      <!-- Desktop Phone CTA -->
-      <a class="phone-cta" href="tel:+94778064714" aria-label="Call +94 77 806 4714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-      <!-- Mobile Toggle -->
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span><span></span><span></span>
-      </button>
-    </div>
-    <!-- Mobile Menu -->
-    <div class="mobile-menu" hidden>
-      <a href="/">Home</a>
-      <a href="about">About Us</a>
-      <a href="services">Services</a>
-      <a href="projects">Portfolio</a>
-      <a href="pricing">Pricing</a>
-      <a href="faq">FAQ</a>
-      <a href="blog">Blog</a>
-      <a href="contact">Contact</a>
-      <a class="phone-cta mobile" href="tel:+94778064714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-    </div>
-  </nav>
-</header>
-        <!-- Navbar removed from projects page -->
+    </head>
+    <body>
+
+        <!-- Navbar removed from single-projects page -->
+
         <!-- Start Page Title Area -->
         <div class="page-title-area">
             <div class="d-table">
                 <div class="d-table-cell">
                     <div class="container">
                         <div class="page-title-content">
-                            <h2>Projects</h2>
+                            <h2>Projects Details</h2>
                             <ul>
                                 <li>
                                     <a href="/">Home</a>
                                 </li>
-                                <li>Projects</li>
+                                <li>Projects Details</li>
                             </ul>
                         </div>
                     </div>
@@ -228,154 +201,89 @@
             </div>
         </div>
         <!-- End Page Title Area -->
-        <!-- Start Project Section -->
-        <section class="project-section ptb-100">
+
+        <!-- Start Project Details Area -->
+		<section class="project-details-area ptb-100">
             <div class="container">
-                <div class="project-title">
-                    <span>Our Project gallery</span>
-                    <h3>Meet our work experience from customers</h3>
-                    <div class="project-btn">
-                        <a href="single-projects" class="project-btn-one">Visit Gallery</a>
-                    </div>
-                </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-project-item">
-                            <img src="assets/img/project/4.jpg" alt="image">
-                            <div class="project-content">
-                                <h3>
-                                    <a href="single-projects">SEO Consultancy</a>
-                                </h3>
-                                <p>20, Deceember 2024</p>
-                            </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="project-details-image">
+                            <img src="assets/img/services-details/1.jpg" alt="projects">
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-project-item">
-                            <img src="assets/img/project/5.jpg" alt="image">
-                            <div class="project-content">
-                                <h3>
-                                    <a href="single-projects">Competitor Analysis</a>
-                                </h3>
-                                <p>20, Deceember 2024</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-project-item">
-                            <img src="assets/img/project/6.jpg" alt="image">
-                            <div class="project-content">
-                                <h3>
-                                    <a href="single-projects">Social Media Marketing</a>
-                                </h3>
-                                <p>20, Deceember 2024</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-project-item">
-                            <img src="assets/img/project/7.jpg" alt="image">
-                            <div class="project-content">
-                                <h3>
-                                    <a href="single-projects">Strategic Planing</a>
-                                </h3>
-                                <p>20, Deceember 2024</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-project-item">
-                            <img src="assets/img/project/8.jpg" alt="image">
-                            <div class="project-content">
-                                <h3>
-                                    <a href="single-projects">Design & Development</a>
-                                </h3>
-                                <p>20, Deceember 2024</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-project-item">
-                            <img src="assets/img/project/9.jpg" alt="image">
-                            <div class="project-content">
-                                <h3>
-                                    <a href="single-projects">Technological Products</a>
-                                </h3>
-                                <p>20, Deceember 2024</p>
-                            </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="project-details-image">
+                            <img src="assets/img/services-details/2.jpg" alt="projects">
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12">
-                        <div class="pagination-area">
-                            <a href="blog" class="prev page-numbers">
-                                <i class="fas fa-angle-double-left"></i>
-                            </a>
-                            <a href="blog" class="page-numbers">1</a>
-                            <span class="page-numbers current" aria-current="page">2</span>
-                            <a href="blog" class="page-numbers">3</a>
-                            <a href="blog" class="page-numbers">4</a>
-                            <a href="blog" class="next page-numbers">
-                                <i class="fas fa-angle-double-right"></i>
-                            </a>
+                        <div class="projects-details-desc">
+                            <h3>Competitor Analysis</h3>
+                            <p>Lorem ipsum dolor sit amet, conse cte tuer adipiscing elit, sed diam no nu m nibhie eui smod. Facil isis atve eros et accumsan etiu sto odi dignis sim qui blandit praesen lup ta de er. At molestiae appellantur pro. Vis wisi oportere per ic ula ad, ei latine prop riae na, mea cu purto debitis.</p>
+                            <div class="features-text">
+                                <h4>
+                                    <i class="flaticon-check-mark"></i>
+                                        Core Development
+                                    </h4>
+                                <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                            </div>
+                            <div class="features-text">
+                                <h4>
+                                    <i class="flaticon-check-mark"></i> 
+                                    Define Your Choices
+                                </h4>
+                                <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                            </div>
+                            <p>Nost rud no eos, no impedit dissenti as mea, ea vide labor amus neglegentur vix. Ancillae intellegat vix et. Sit causae laoreet nolu ise. Ad po exerci nusquam eos te. Cu altera expet enda qui, munere oblique theo phrastu ea vix. Ne nec modus civibus modera tius, sit ei lorem doctus. Ne docen di verterem reformidans eos. Cu altera expetenda qui, munere oblique theophr astus ea vix modus civiu mod eratius.</p>
+                            <div class="project-details-info">
+                                <div class="single-info-box">
+                                    <h4>Client</h4>
+                                    <span>James Anderson</span>
+                                </div>
+                                <div class="single-info-box">
+                                    <h4>Category</h4>
+                                    <span>Network, Marketing</span>
+                                </div>
+                                <div class="single-info-box">
+                                    <h4>Date</h4>
+                                    <span>February 28, 2024</span>
+                                </div>
+                                <div class="single-info-box">
+                                    <h4>Share</h4>
+                                    <ul class="social">
+                                        <li>
+                                            <a href="https://www.facebook.com/buddika.suresh/" target="_blank">
+                                                <i class="fab fa-facebook-f"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.twitter.com/" target="_blank">
+                                                <i class="fab fa-twitter"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/" target="_blank">
+                                                <i class="fab fa-instagram"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.linkedin.com/in/seo-consultant-uae/" target="_blank">
+                                                <i class="fab fa-linkedin-in"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="single-info-box">
+                                    <a href="single-product" class="default-btn">Live Preview</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- End Project Section -->
-        <!-- Start Partner Section -->
-        <div class="partner-section pb-100">
-            <div class="container">
-                <div class="partner-slider owl-carousel owl-theme">
-                    <div class="partner-item">
-                        <a href="about">
-                            <img src="assets/img/partnar/1.png" alt="partner">
-                        </a>
-                    </div>
-                    <div class="partner-item">
-                        <a href="about">
-                            <img src="assets/img/partnar/2.png" alt="partner">
-                        </a>
-                    </div>
-                    <div class="partner-item">
-                        <a href="about">
-                            <img src="assets/img/partnar/3.png" alt="partner">
-                        </a>
-                    </div>
-                    <div class="partner-item">
-                        <a href="about">
-                            <img src="assets/img/partnar/4.png" alt="partner">
-                        </a>
-                    </div>
-                    <div class="partner-item">
-                        <a href="about">
-                            <img src="assets/img/partnar/5.png" alt="partner">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Partner Section -->
-        <!-- Start Update Section -->
-        <section class="update-section inner-update-section ptb-100">
-            <div class="container">
-                <div class="update-title">
-                    <h3>Get Every Single Update</h3>
-                </div>
-                <form class="update-form">
-                    <input type="email" class="input-newsletter" placeholder="Enter your email" name="EMAIL" required autocomplete="off">
-                    <button type="submit">Subscribe Newsletter</button>
-                    <div id="validator-newsletter" class="form-result"></div>
-                </form>
-            </div>
-            <div class="shape">
-                <img src="assets/img/shape/19.png" alt="Images">
-            </div>
-            <div class="shape-2">
-                <img src="assets/img/shape/20.png" alt="Images">
-            </div>
-        </section>
-        <!-- End Update Section -->
+		<!-- End Project Details Area -->
+  
         <!-- Start Footer Section -->
         <footer class="footer-section">
             <div class="container">
@@ -386,6 +294,7 @@
                             <p>Professional SEO consulting services in Sri Lanka by Buddhika S Weerasekara. Expert SEO strategies for guaranteed Google rankings and business growth.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Company</h3>
@@ -408,6 +317,7 @@
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>My Account</h3>
@@ -430,6 +340,7 @@
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Contact Information</h3>
@@ -478,10 +389,11 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="copyright-area">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
-                            <p>– Exto is Proudly Owned by <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
+                            <p>� Exto is Proudly Owned by <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <ul>
@@ -498,42 +410,44 @@
             </div>
         </footer>
         <!-- End Footer Section -->
+
         <!-- Start Go Top Section -->
         <div class="go-top">
             <i class="fas fa-chevron-up"></i>
             <i class="fas fa-chevron-up"></i>
         </div>
         <!-- End Go Top Section -->
+
         <!-- jQuery Min JS -->
-  <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap Bundle Min JS -->
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- MeanMenu JS  -->
-  <script src="assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Appear Min JS -->
-  <script src="assets/js/jquery.appear.min.js"></script>
+        <script src="assets/js/jquery.appear.min.js"></script>
         <!-- Odometer Min JS -->
-  <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Owl Carousel Min JS -->
-  <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Magnific Popup Min JS -->
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <!-- Nice Select Min JS -->
-  <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
         <!-- WOW Min JS -->
-  <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
         <!-- Form Validator JS -->
-  <script src="assets/js/form-validator.min.js"></script>
+		<script src="assets/js/form-validator.min.js"></script>
         <!-- Ajaxchimp Min JS -->
-  <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 		<!-- Contact JS -->
-  <script src="assets/js/contact-form-script.js"></script>
+		<script src="assets/js/contact-form-script.js"></script>
         <!-- Particles JS -->
-  <script src="assets/js/particles.min.js"></script>
+        <script src="assets/js/particles.min.js"></script>
         <!-- Progressbar Min JS -->
-  <script src="assets/js/progressbar.min.js"></script>
+        <script src="assets/js/progressbar.min.js"></script>
         <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+        <script src="assets/js/main.js"></script>
     <!-- WhatsApp Chat Button -->
     <a href="https://wa.me/94778064714" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
         <i class="fab fa-whatsapp"></i>
@@ -569,7 +483,6 @@
             line-height: 60px;
         }
     </style>
-        `n  <script src="assets/js/header.js" defer></script>
-</body>
-</html>
 
+    </body>
+</html>

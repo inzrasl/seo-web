@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
@@ -8,12 +8,14 @@
         <meta name="keywords" content="SEO Service Sri Lanka, GEO Service Sri Lanka, Local Link Building Service, SEO Company Sri Lanka, Generative Engine Optimization">
         <meta name="author" content="Buddhika S Weerasekara">
         <link rel="canonical" href="https://seoconsultantsrilanka.com/services" />
+        
         <!-- Open Graph -->
         <meta property="og:title" content="SEO Service Sri Lanka | GEO Service | Link Building">
         <meta property="og:description" content="Comprehensive SEO services including GEO optimization and local link building for Sri Lankan businesses.">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://seoconsultantsrilanka.com/services">
         <meta property="og:image" content="https://seoconsultantsrilanka.com/assets/img/service.png">
+        
         <meta name="robots" content="index, follow">
         <meta name="geo.region" content="LK">
         <meta property="og:title" content="SEO, GEO & Link Building Services in Sri Lanka | Expert Digital Marketing">
@@ -23,6 +25,7 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="SEO, GEO & Link Building Services in Sri Lanka">
         <meta name="twitter:description" content="Professional SEO Service Sri Lanka, GEO Service Sri Lanka, and Local Link Building Service for Sri Lankan businesses.">
+
         <!-- Bootstrap Min CSS -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <!-- Animate Min CSS -->
@@ -53,8 +56,11 @@
         <link rel="stylesheet" href="assets/css/dark.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
+
         <title>SEO Service Sri Lanka | GEO Service Sri Lanka | Local Link Building Service</title>
+
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
+        
         <style>
             /* Universe Background */
             .universe {
@@ -66,6 +72,7 @@
                 left: 0;
                 z-index: 0;
             }
+
             .star {
                 position: absolute;
                 width: 2px;
@@ -74,16 +81,19 @@
                 border-radius: 50%;
                 animation: twinkleUniverse 3s infinite;
             }
+
             @keyframes twinkleUniverse {
                 0%, 100% { opacity: 0.3; }
                 50% { opacity: 1; }
             }
+
             .shooting-star {
                 position: absolute;
                 height: 2px;
                 background: linear-gradient(to right, white, transparent);
                 animation: shootUniverse 3s linear infinite;
             }
+
             @keyframes shootUniverse {
                 0% {
                     transform: translateX(0) translateY(0);
@@ -94,6 +104,7 @@
                     opacity: 0;
                 }
             }
+
             .nebula {
                 position: absolute;
                 border-radius: 50%;
@@ -101,27 +112,32 @@
                 opacity: 0.3;
                 animation: nebulaFloat 20s ease-in-out infinite;
             }
+
             @keyframes nebulaFloat {
                 0%, 100% { transform: translate(0, 0); }
                 50% { transform: translate(50px, -50px); }
             }
+
             .planet {
                 position: absolute;
                 border-radius: 50%;
                 box-shadow: inset -25px -25px 40px rgba(0,0,0,.5);
             }
+            
             /* Page title area with universe background */
             .page-title-area {
                 position: relative;
                 overflow: hidden;
                 background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
             }
+            
             .page-title-content {
                 position: relative;
                 z-index: 1;
             }
         </style>
-  <script type="application/ld+json">
+        
+        <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "ProfessionalService",
@@ -168,60 +184,147 @@
           }
         }
         </script>
-        <link rel="stylesheet" href="assets/css/header.css">
-</head>
-<body>
-<!-- Reusable Header Component (static HTML version of provided React idea) -->
-<header id="site-header" class="site-header" aria-label="Primary Header">
-  <nav class="nav-wrap" aria-label="Primary Navigation">
-    <div class="nav-inner">
-      <!-- Logo / Brand -->
-      <a class="brand" href="/" aria-label="Home">
-        <div class="brand-mark">
-          <span>L</span>
+    </head>
+    <body>
+
+        <!-- Start Navbar Area -->
+        <div class="navbar-area">
+            <div class="exto-responsive-nav">
+                <div class="container">
+                    <div class="exto-responsive-menu">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="assets/img/seo logo.png" alt="logo" style="max-width: 120px;">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="exto-nav">
+                <div class="container">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="/">
+                            <img src="assets/img/seo logo.png" alt="logo" style="max-width: 120px;">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                                                        <ul class="navbar-nav ml-auto">
+                                <li class="nav-item">
+                                    <a href="/" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="contact" class="nav-link">Contact</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="services" class="nav-link active">Service</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="pricing" class="nav-link">Pricing</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="faq" class="nav-link">FAQ</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="blog" class="nav-link">Blog</a>
+                                </li>
+                            </ul>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link active">
+                                        Services 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="services" class="nav-link active">Service</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="single-services" class="nav-link">Service Details</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Projects 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="projects" class="nav-link">Project</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="single-projects" class="nav-link">Project Details</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Pages 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="about" class="nav-link">About Us</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="team" class="nav-link">Team</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="faq" class="nav-link">FAQ</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="pricing" class="nav-link">Pricing</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="login" class="nav-link">Log in</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="signup" class="nav-link">Sign up</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="error-404" class="nav-link">404 Error</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="contact" class="nav-link">Contact</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="coming-soon" class="nav-link">Coming Soon</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Shop
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Blog
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="blog" class="nav-link">Blog</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="single-blog" class="nav-link">Blog Details</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="contact" class="nav-link">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
         </div>
-        <img class="brand-logo" src="assets/img/seo logo.png" alt="SEO Consultant Sri Lanka Logo">
-        <span class="brand-text">SEO Consultant</span>
-      </a>
-      <!-- Desktop Menu -->
-      <ul class="menu" role="menubar">
-        <li role="none"><a role="menuitem" href="/">Home</a></li>
-        <li role="none"><a role="menuitem" href="about">About Us</a></li>
-        <li role="none"><a role="menuitem" href="services">Services</a></li>
-        <li role="none"><a role="menuitem" href="projects">Portfolio</a></li>
-        <li role="none"><a role="menuitem" href="pricing">Pricing</a></li>
-        <li role="none"><a role="menuitem" href="faq">FAQ</a></li>
-        <li role="none"><a role="menuitem" href="blog">Blog</a></li>
-        <li role="none"><a role="menuitem" href="contact">Contact</a></li>
-      </ul>
-      <!-- Desktop Phone CTA -->
-      <a class="phone-cta" href="tel:+94778064714" aria-label="Call +94 77 806 4714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-      <!-- Mobile Toggle -->
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span><span></span><span></span>
-      </button>
-    </div>
-    <!-- Mobile Menu -->
-    <div class="mobile-menu" hidden>
-      <a href="/">Home</a>
-      <a href="about">About Us</a>
-      <a href="services">Services</a>
-      <a href="projects">Portfolio</a>
-      <a href="pricing">Pricing</a>
-      <a href="faq">FAQ</a>
-      <a href="blog">Blog</a>
-      <a href="contact">Contact</a>
-      <a class="phone-cta mobile" href="tel:+94778064714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-    </div>
-  </nav>
-</header>
-        <!-- Navbar removed -->
+        <!-- End Navbar Area -->
+
         <!-- Start Page Title Area -->
         <div class="page-title-area">
             <!-- Universe Background -->
@@ -243,9 +346,11 @@
             </div>
         </div>
         <!-- End Page Title Area -->
-  <script>
+        
+        <script>
             // Create universe background
             const universe = document.getElementById('universe');
+            
             // Create stars
             for (let i = 0; i < 120; i++) {
                 const star = document.createElement('div');
@@ -255,6 +360,7 @@
                 star.style.animationDelay = Math.random() * 3 + 's';
                 universe.appendChild(star);
             }
+            
             // Create shooting stars
             for (let i = 0; i < 3; i++) {
                 const shootingStar = document.createElement('div');
@@ -266,6 +372,7 @@
                 shootingStar.style.animationDuration = (Math.random() * 2 + 2) + 's';
                 universe.appendChild(shootingStar);
             }
+            
             // Create nebulas
             const nebula1 = document.createElement('div');
             nebula1.className = 'nebula';
@@ -275,6 +382,7 @@
             nebula1.style.left = '10%';
             nebula1.style.top = '20%';
             universe.appendChild(nebula1);
+            
             const nebula2 = document.createElement('div');
             nebula2.className = 'nebula';
             nebula2.style.width = '250px';
@@ -284,6 +392,7 @@
             nebula2.style.top = '30%';
             nebula2.style.animationDelay = '5s';
             universe.appendChild(nebula2);
+            
             // Create planets
             const planet1 = document.createElement('div');
             planet1.className = 'planet';
@@ -295,6 +404,7 @@
             planet1.style.opacity = '0.6';
             universe.appendChild(planet1);
         </script>
+
         <!-- Start Productive Section -->
         <section class="productive-section ptb-100">
             <div class="container">
@@ -303,6 +413,7 @@
                     <h3>Expert SEO Service Sri Lanka, GEO Service Sri Lanka & Local Link Building Service</h3>
                     <p>Leading provider of comprehensive SEO Service Sri Lanka, innovative GEO Service Sri Lanka, and ethical Local Link Building Service. Our proven strategies help Sri Lankan businesses achieve top rankings on Google and AI-powered search engines with transparent pricing and measurable results.</p>
                 </div>
+
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="productive-area-content">
@@ -313,6 +424,7 @@
                             <p>Comprehensive SEO Service Sri Lanka including technical SEO, on-page optimization, keyword research, content strategy, and monthly reporting. Achieve top rankings with our proven SEO services in Sri Lanka.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="productive-area-content">
                             <div class="icon">
@@ -322,6 +434,7 @@
                             <p>Cutting-edge GEO Service Sri Lanka for Generative Engine Optimization. Optimize your content for ChatGPT, Google Gemini, Claude, and other AI search engines. Be visible in the future of search with our GEO services.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="productive-area-content">
                             <div class="icon">
@@ -331,6 +444,7 @@
                             <p>Ethical Local Link Building Service using white-hat techniques. Build high-quality backlinks from Sri Lankan websites to boost domain authority and improve your local search rankings effectively.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="productive-area-content">
                             <div class="icon">
@@ -340,6 +454,7 @@
                             <p>Advanced technical SEO as part of our SEO Service Sri Lanka including site speed optimization, mobile responsiveness, structured data implementation, and Core Web Vitals improvements for better rankings.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="productive-area-content">
                             <div class="icon">
@@ -349,6 +464,7 @@
                             <p>In-depth keyword research for SEO Service Sri Lanka targeting high-value local and national keywords. Identify opportunities to outrank competitors and capture qualified traffic for your business.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="productive-area-content">
                             <div class="icon">
@@ -362,6 +478,7 @@
             </div>
         </section>
         <!-- End Productive Section -->
+
         <!-- Start Needs Section -->
         <section class="needs-section pb-100">
             <div class="container">
@@ -386,6 +503,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="col-lg-6 col-md-12">
                         <div class="needs">
                             <img src="assets/img/service.png" alt="SEO Service Sri Lanka, GEO Service Sri Lanka, Local Link Building Service">
@@ -395,6 +513,7 @@
             </div>
         </section>
         <!-- End Needs Section -->
+
         <!-- Start Update Section -->
         <section class="update-section inner-update-section ptb-100">
             <div class="container">
@@ -415,6 +534,7 @@
             </div>
         </section>
         <!-- End Update Section -->
+
         <!-- Start Footer Section -->
         <footer class="footer-section">
             <div class="container">
@@ -425,6 +545,7 @@
                             <p>Leading provider of SEO Service Sri Lanka, GEO Service Sri Lanka, and Local Link Building Service. Helping Sri Lankan businesses achieve top rankings with proven strategies and transparent pricing. Contact us today for expert SEO consultation.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Company</h3>
@@ -447,28 +568,30 @@
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>SEO Services</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="best-seo-company-sri-lanka">Best SEO Company Sri Lanka</a>
+                                    <a href="best seo company in sri lanka">Best SEO Company Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo-expert-sri-lanka">SEO Expert Sri Lanka</a>
+                                    <a href="seo expert in srilanka">SEO Expert Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo-specialist-sri-lanka">SEO Specialist Sri Lanka</a>
+                                    <a href="seo specialist sri lanka">SEO Specialist Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo-sri-lanka">SEO Sri Lanka</a>
+                                    <a href="seo sri lanka">SEO Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="ai-seo">AI SEO & GEO</a>
+                                    <a href="ai seo">AI SEO & GEO</a>
                                 </li>
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Contact Information</h3>
@@ -517,10 +640,11 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="copyright-area">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
-                            <p>– 2025 SEO Consultant Sri Lanka - Buddhika S Weerasekara | All Rights Reserved</p>
+                            <p>� 2025 SEO Consultant Sri Lanka - Buddhika S Weerasekara | All Rights Reserved</p>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <ul>
@@ -537,42 +661,44 @@
             </div>
         </footer>
         <!-- End Footer Section -->
+
         <!-- Start Go Top Section -->
         <div class="go-top">
             <i class="fas fa-chevron-up"></i>
             <i class="fas fa-chevron-up"></i>
         </div>
         <!-- End Go Top Section -->
+
         <!-- jQuery Min JS -->
-  <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap Bundle Min JS -->
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- MeanMenu JS  -->
-  <script src="assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Appear Min JS -->
-  <script src="assets/js/jquery.appear.min.js"></script>
+        <script src="assets/js/jquery.appear.min.js"></script>
         <!-- Odometer Min JS -->
-  <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Owl Carousel Min JS -->
-  <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Magnific Popup Min JS -->
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <!-- Nice Select Min JS -->
-  <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
         <!-- WOW Min JS -->
-  <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
         <!-- Form Validator JS -->
-  <script src="assets/js/form-validator.min.js"></script>
+		<script src="assets/js/form-validator.min.js"></script>
         <!-- Ajaxchimp Min JS -->
-  <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 		<!-- Contact JS -->
-  <script src="assets/js/contact-form-script.js"></script>
+		<script src="assets/js/contact-form-script.js"></script>
         <!-- Particles JS -->
-  <script src="assets/js/particles.min.js"></script>
+        <script src="assets/js/particles.min.js"></script>
         <!-- Progressbar Min JS -->
-  <script src="assets/js/progressbar.min.js"></script>
+        <script src="assets/js/progressbar.min.js"></script>
         <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+        <script src="assets/js/main.js"></script>
     <!-- WhatsApp Chat Button -->
     <a href="https://wa.me/94778064714" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
         <i class="fab fa-whatsapp"></i>
@@ -608,7 +734,6 @@
             line-height: 60px;
         }
     </style>
-        `n  <script src="assets/js/header.js" defer></script>
-</body>
-</html>
 
+    </body>
+</html>

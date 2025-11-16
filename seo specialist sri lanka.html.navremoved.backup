@@ -1,9 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
         <!-- Bootstrap Min CSS -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <!-- Animate Min CSS -->
@@ -32,45 +33,51 @@
         <link rel="stylesheet" href="assets/css/dark.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
-        <title>SEO Consultant in Sri Lanka | No.1 SEO Consultant Sri Lanka - Buddhika S Weerasekara</title>
-        <meta name="description" content="Looking for the best SEO Consultant in Sri Lanka? Buddhika S Weerasekara is the #1 SEO Consultant Sri Lanka offering white-hat SEO, GEO optimization, and guaranteed Google rankings. Get professional SEO services in Sri Lanka today.">
-        <meta name="keywords" content="SEO Consultant in Sri Lanka, SEO Consultant Sri Lanka, SEO Services Sri Lanka, Best SEO Consultant, SEO Expert Sri Lanka, Digital Marketing Sri Lanka">
-        <link rel="canonical" href="https://seoconsultantsrilanka.com/" />
+
+        <title>SEO Specialist Sri Lanka | Buddhika S Weerasekara - Expert SEO Services</title>
+        <meta name="description" content="Buddhika S Weerasekara is a professional SEO Specialist in Sri Lanka with 15+ years experience. Get white-hat SEO, technical optimization, link building & guaranteed Google rankings from an expert SEO specialist.">
+        <meta name="keywords" content="SEO Specialist Sri Lanka, SEO specialist in Sri Lanka, Best SEO Specialist, SEO Expert Sri Lanka, Professional SEO Services, Digital Marketing Specialist, Search Engine Optimization Sri Lanka, Google SEO Specialist">
+        <link rel="canonical" href="https://seoconsultantsrilanka.com/seo-specialist-sri-lanka" />
+        
         <!-- Open Graph for Social Sharing & AI Crawlers -->
-        <meta property="og:title" content="SEO Consultant in Sri Lanka | Buddhika S Weerasekara">
-        <meta property="og:description" content="Professional SEO Consultant in Sri Lanka offering white-hat SEO, technical optimization, and guaranteed Google rankings. 15+ years experience.">
+        <meta property="og:title" content="SEO Specialist Sri Lanka | Buddhika S Weerasekara">
+        <meta property="og:description" content="Buddhika S Weerasekara - Professional SEO Specialist in Sri Lanka offering expert SEO services for businesses. Get guaranteed Google rankings.">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://seoconsultantsrilanka.com/">
+        <meta property="og:url" content="https://seoconsultantsrilanka.com/seo-specialist-sri-lanka">
         <meta property="og:image" content="https://seoconsultantsrilanka.com/assets/img/seo-logo.png">
         <meta property="og:locale" content="en_US">
-        <meta property="og:site_name" content="Buddhika S Weerasekara - SEO Consultant Sri Lanka">
+        <meta property="og:site_name" content="Buddhika S Weerasekara - SEO Specialist Sri Lanka">
+        
         <!-- Twitter Card for AI Engines -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="SEO Consultant in Sri Lanka | Buddhika S Weerasekara">
-        <meta name="twitter:description" content="Professional SEO Consultant Sri Lanka with 15+ years experience. White-hat SEO services for guaranteed Google rankings.">
+        <meta name="twitter:title" content="SEO Specialist Sri Lanka | Expert SEO Services">
+        <meta name="twitter:description" content="Professional SEO Specialist in Sri Lanka with 15+ years experience. White-hat SEO services for guaranteed Google rankings.">
         <meta name="twitter:image" content="https://seoconsultantsrilanka.com/assets/img/seo-logo.png">
+        
         <!-- Geographic Meta Tags for Local SEO -->
         <meta name="geo.region" content="LK">
         <meta name="geo.placename" content="Sri Lanka">
         <meta name="geo.position" content="7.8731;80.7718">
         <meta name="ICBM" content="7.8731, 80.7718">
+        
         <!-- Additional Meta for AI Engines -->
         <meta name="author" content="Buddhika S Weerasekara">
         <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
         <meta name="googlebot" content="index, follow">
         <meta name="bingbot" content="index, follow">
+        
         <!-- Structured Data - JSON-LD for Google & AI Engines -->
-  <script type="application/ld+json">
+        <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "ProfessionalService",
-          "@id": "https://seoconsultantsrilanka.com/#organization",
-          "name": "Buddhika S Weerasekara - SEO Consultant Sri Lanka",
-          "alternateName": "Best SEO Consultant in Sri Lanka",
-          "url": "https://seoconsultantsrilanka.com",
+          "@id": "https://seoconsultantsrilanka.com/#seospecialist",
+          "name": "Buddhika S Weerasekara - SEO Specialist Sri Lanka",
+          "alternateName": "Best SEO Specialist in Sri Lanka",
+          "url": "https://seoconsultantsrilanka.com/seo-specialist-sri-lanka",
           "logo": "https://seoconsultantsrilanka.com/assets/img/seo-logo.png",
           "image": "https://seoconsultantsrilanka.com/assets/img/seo-logo.png",
-          "description": "Professional SEO Consultant in Sri Lanka offering white-hat SEO services, technical optimization, GEO optimization, and guaranteed Google rankings. 15+ years of experience helping businesses grow online.",
+          "description": "Buddhika S Weerasekara is a professional SEO Specialist in Sri Lanka with 15+ years of experience offering white-hat SEO services, technical optimization, content strategy, link building, and guaranteed Google rankings for businesses.",
           "telephone": "+94-77-806-4714",
           "email": "seo@inzra.com",
           "address": {
@@ -97,14 +104,14 @@
           ],
           "hasOfferCatalog": {
             "@type": "OfferCatalog",
-            "name": "SEO Services",
+            "name": "SEO Specialist Services",
             "itemListElement": [
               {
                 "@type": "Offer",
                 "itemOffered": {
                   "@type": "Service",
-                  "name": "Search Engine Optimization (SEO)",
-                  "description": "Comprehensive on-page optimization, technical SEO, content strategy, and link building services"
+                  "name": "Search Engine Optimization",
+                  "description": "Comprehensive SEO services including on-page optimization, technical SEO audits, content strategy, and website analysis"
                 }
               },
               {
@@ -112,30 +119,38 @@
                 "itemOffered": {
                   "@type": "Service",
                   "name": "Generative Engine Optimization (GEO)",
-                  "description": "Optimization for AI search engines like ChatGPT, Gemini, and Perplexity"
+                  "description": "Optimization for AI search engines like ChatGPT, Gemini, Perplexity, and other generative AI platforms"
                 }
               },
               {
                 "@type": "Offer",
                 "itemOffered": {
                   "@type": "Service",
-                  "name": "Local SEO & Link Building",
-                  "description": "Google Maps optimization and high-authority backlink acquisition"
+                  "name": "Link Building & Local SEO",
+                  "description": "High-authority backlink acquisition and Google Maps optimization for local search visibility"
                 }
               }
             ]
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "150",
+            "bestRating": "5",
+            "worstRating": "1"
           }
         }
         </script>
-        <!-- Person Schema for Buddhika S Weerasekara -->
-  <script type="application/ld+json">
+        
+        <!-- Person Schema for SEO Specialist -->
+        <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "Person",
           "name": "Buddhika S Weerasekara",
-          "jobTitle": "SEO Consultant",
-          "description": "Professional SEO Consultant in Sri Lanka with 15+ years of experience in search engine optimization, technical SEO, and digital marketing.",
-          "url": "https://seoconsultantsrilanka.com",
+          "jobTitle": "SEO Specialist",
+          "description": "Professional SEO Specialist in Sri Lanka with 15+ years of experience specializing in search engine optimization, technical SEO, content optimization, link building, and generative engine optimization (GEO).",
+          "url": "https://seoconsultantsrilanka.com/seo-specialist-sri-lanka",
           "image": "https://seoconsultantsrilanka.com/assets/img/seo.jpg",
           "email": "seo@inzra.com",
           "telephone": "+94-77-806-4714",
@@ -149,67 +164,83 @@
             "name": "Engineering Degree"
           },
           "knowsAbout": [
+            "SEO Specialist Services",
             "Search Engine Optimization",
-            "SEO Consulting",
             "Technical SEO",
-            "Link Building",
+            "Link Building Strategies",
             "Content Optimization",
             "Local SEO",
             "Generative Engine Optimization",
             "Google Rankings",
             "Keyword Research",
-            "On-Page SEO"
+            "On-Page SEO",
+            "SEO Audits",
+            "White-Hat SEO Techniques"
           ],
           "hasCredential": {
             "@type": "EducationalOccupationalCredential",
             "credentialCategory": "Professional Experience",
-            "name": "15+ Years SEO Experience"
+            "name": "15+ Years as SEO Specialist"
+          },
+          "worksFor": {
+            "@type": "Organization",
+            "name": "SEO Consultant Sri Lanka"
           }
         }
         </script>
+        
         <!-- FAQ Schema for AI Engines -->
-  <script type="application/ld+json">
+        <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "FAQPage",
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "Who is the best SEO Consultant in Sri Lanka?",
+              "name": "Who is the best SEO Specialist in Sri Lanka?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Buddhika S Weerasekara is recognized as the leading SEO Consultant in Sri Lanka with over 15 years of experience. He offers professional white-hat SEO services, technical optimization, and guaranteed Google rankings for businesses."
+                "text": "Buddhika S Weerasekara is a highly experienced SEO Specialist in Sri Lanka with over 15 years of professional experience. He specializes in white-hat SEO techniques, technical optimization, content strategy, and has successfully helped numerous businesses achieve top Google rankings."
               }
             },
             {
               "@type": "Question",
-              "name": "What SEO services does Buddhika S Weerasekara offer in Sri Lanka?",
+              "name": "What services does an SEO Specialist in Sri Lanka provide?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Buddhika offers comprehensive SEO services including search engine optimization (SEO), generative engine optimization (GEO) for AI search engines, technical SEO audits, on-page optimization, content strategy, link building, and local SEO for Google Maps rankings."
+                "text": "A professional SEO Specialist in Sri Lanka like Buddhika S Weerasekara provides comprehensive services including search engine optimization (SEO), technical SEO audits, on-page optimization, content strategy, link building, local SEO for Google Maps, and generative engine optimization (GEO) for AI search platforms like ChatGPT and Perplexity."
               }
             },
             {
               "@type": "Question",
-              "name": "How can I contact the SEO Consultant in Sri Lanka?",
+              "name": "How can I contact Buddhika S Weerasekara, the SEO Specialist in Sri Lanka?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "You can contact Buddhika S Weerasekara at +94-77-806-4714 or email seo@inzra.com for professional SEO consulting services in Sri Lanka."
+                "text": "You can contact Buddhika S Weerasekara, professional SEO Specialist in Sri Lanka, by calling +94-77-806-4714 or emailing seo@inzra.com for expert SEO consulting and services."
               }
             },
             {
               "@type": "Question",
-              "name": "What makes this SEO Consultant different from others in Sri Lanka?",
+              "name": "What makes Buddhika S Weerasekara different from other SEO specialists?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Buddhika S Weerasekara uses 100% white-hat SEO techniques with deep keyword research, technical SEO expertise, data-driven strategies, and 15+ years of proven experience. He offers transparent pricing, direct communication, and guaranteed results for businesses in Sri Lanka."
+                "text": "Buddhika S Weerasekara stands out as an SEO Specialist in Sri Lanka due to his 15+ years of experience, engineering background, use of 100% white-hat SEO techniques, data-driven approach, transparent pricing, and proven track record of delivering guaranteed Google rankings with sustainable results."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Generative Engine Optimization (GEO)?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generative Engine Optimization (GEO) is a specialized service offered by SEO Specialist Sri Lanka Buddhika S Weerasekara that optimizes your content for AI-powered search engines like ChatGPT, Google SGE, Bing Chat, Perplexity, and Gemini. This ensures your business appears in AI-generated search results and recommendations."
               }
             }
           ]
         }
         </script>
+        
         <!-- Breadcrumb Schema -->
-  <script type="application/ld+json">
+        <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "BreadcrumbList",
@@ -223,13 +254,63 @@
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "SEO Consultant Sri Lanka",
-              "item": "https://seoconsultantsrilanka.com/"
+              "name": "SEO Specialist Sri Lanka",
+              "item": "https://seoconsultantsrilanka.com/seo-specialist-sri-lanka"
             }
           ]
         }
         </script>
+        
+        <!-- Service Schema -->
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "serviceType": "SEO Specialist Services",
+          "provider": {
+            "@type": "Person",
+            "name": "Buddhika S Weerasekara",
+            "jobTitle": "SEO Specialist Sri Lanka"
+          },
+          "areaServed": {
+            "@type": "Country",
+            "name": "Sri Lanka"
+          },
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Professional SEO Services",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Technical SEO Audit",
+                  "description": "Comprehensive website analysis identifying technical issues affecting search rankings"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Keyword Research & Strategy",
+                  "description": "In-depth keyword analysis and competitive research for optimal search visibility"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Content Optimization",
+                  "description": "Strategic content creation and optimization for search engines and users"
+                }
+              }
+            ]
+          }
+        }
+        </script>
+
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
+        
         <!-- Hide Envato Buy Now Button -->
         <style>
             /* Body offset equal to navbar height */
@@ -244,45 +325,60 @@
             .widget-buy {
                 display: none !important;
             }
+            
             /* Dark Header with White Menu Text */
+            .navbar-area {
                 background: #1a1a1a !important;
                 margin-bottom: 0 !important;
                 padding-bottom: 0 !important;
             }
+            
+            .exto-nav {
                 background: #1a1a1a !important;
             }
+            
+            .exto-responsive-nav {
                 background: #1a1a1a !important;
             }
+            
+            .navbar-light .navbar-nav .nav-link {
                 color: #ffffff !important;
             }
+            
+            .navbar-light .navbar-nav .nav-link:hover,
+            .navbar-light .navbar-nav .nav-link.active {
                 color: #999999 !important;
             }
+            
+            .navbar-light .navbar-nav .dropdown-menu {
                 background: #2a2a2a !important;
             }
+            
+            .navbar-light .navbar-nav .dropdown-menu .nav-link {
                 color: #ffffff !important;
             }
+            
+            .navbar-light .navbar-nav .dropdown-menu .nav-link:hover {
                 color: #2d5016 !important;
             }
+            
             /* Hide language selector */
             .language-list {
                 display: none !important;
             }
+            
             /* Scale logo smaller */
+            .navbar-brand img,
             .exto-responsive-menu .logo img {
                 max-width: 160px !important;
                 height: auto !important;
             }
-            /* Align menu items to right with proper spacing */
-                margin-left: auto !important;
-            }
-                margin-left: 10px !important;
-            }
-            .navbar-collapse {
-                justify-content: flex-end !important;
-            }
+            
             /* Hamburger menu icon gray */
+            .sidebar-menu span {
                 background: #999999 !important;
             }
+            
             /* Remove spacing between navbar and hero */
             .startup-home-area {
                 margin-top: 0 !important;
@@ -294,60 +390,138 @@
                 padding-top: 0px; /* no additional padding needed */
             }
         </style>
-        <link rel="stylesheet" href="assets/css/header.css">
-</head>
-<body>
-<!-- Reusable Header Component (static HTML version of provided React idea) -->
-<header id="site-header" class="site-header" aria-label="Primary Header">
-  <nav class="nav-wrap" aria-label="Primary Navigation">
-    <div class="nav-inner">
-      <!-- Logo / Brand -->
-      <a class="brand" href="/" aria-label="Home">
-        <div class="brand-mark">
-          <span>L</span>
+    </head>
+    <body>
+
+        <!-- Start Navbar Area -->
+        <div class="navbar-area">
+            <div class="exto-responsive-nav">
+                <div class="container">
+                    <div class="exto-responsive-menu">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="assets/img/seo logo.png" class="main-logo" alt="logo" style="max-width: 120px;">
+                                <img src="assets/img/seo logo.png" class="white-logo" alt="logo" style="max-width: 120px;">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="exto-nav">
+                <div class="container">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="/">
+                            <img src="assets/img/seo logo.png" class="main-logo" alt="logo" style="max-width: 120px;">
+                            <img src="assets/img/seo logo.png" class="white-logo" alt="logo" style="max-width: 120px;">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                                                        <ul class="navbar-nav ml-auto">
+                                <li class="nav-item">
+                                    <a href="/" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="contact" class="nav-link">Contact</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="services" class="nav-link">Service</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="pricing" class="nav-link">Pricing</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="faq" class="nav-link">FAQ</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="blog" class="nav-link">Blog</a>
+                                </li>
+                            </ul>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+                                <li class="nav-item"><a href="services" class="nav-link">Service</a></li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Projects 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="projects" class="nav-link">Project</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="single-projects" class="nav-link">Project Details</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Pages 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="about" class="nav-link">About Us</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="team" class="nav-link">Team</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="faq" class="nav-link">FAQ</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="pricing" class="nav-link">Pricing</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="login" class="nav-link">Log in</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="signup" class="nav-link">Sign up</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="error-404" class="nav-link">404 Error</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="contact" class="nav-link">Contact</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="coming-soon" class="nav-link">Coming Soon</a>
+                                        </li>
+                                    </ul>
+                                
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Shop
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Blog
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="blog" class="nav-link">Blog</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="single-blog" class="nav-link">Blog Details</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="contact" class="nav-link">Contact</a>
+                                </li>
+                            </ul></div>
+                    </nav>
+                </div>
+            </div>
         </div>
-        <img class="brand-logo" src="assets/img/seo logo.png" alt="SEO Consultant Sri Lanka Logo">
-        <span class="brand-text">SEO Consultant</span>
-      </a>
-      <!-- Desktop Menu -->
-      <ul class="menu" role="menubar">
-        <li role="none"><a role="menuitem" href="/">Home</a></li>
-        <li role="none"><a role="menuitem" href="about">About Us</a></li>
-        <li role="none"><a role="menuitem" href="services">Services</a></li>
-        <li role="none"><a role="menuitem" href="projects">Portfolio</a></li>
-        <li role="none"><a role="menuitem" href="pricing">Pricing</a></li>
-        <li role="none"><a role="menuitem" href="faq">FAQ</a></li>
-        <li role="none"><a role="menuitem" href="blog">Blog</a></li>
-        <li role="none"><a role="menuitem" href="contact">Contact</a></li>
-      </ul>
-      <!-- Desktop Phone CTA -->
-      <a class="phone-cta" href="tel:+94778064714" aria-label="Call +94 77 806 4714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-      <!-- Mobile Toggle -->
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span><span></span><span></span>
-      </button>
-    </div>
-    <!-- Mobile Menu -->
-    <div class="mobile-menu" hidden>
-      <a href="/">Home</a>
-      <a href="about">About Us</a>
-      <a href="services">Services</a>
-      <a href="projects">Portfolio</a>
-      <a href="pricing">Pricing</a>
-      <a href="faq">FAQ</a>
-      <a href="blog">Blog</a>
-      <a href="contact">Contact</a>
-      <a class="phone-cta mobile" href="tel:+94778064714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-    </div>
-  </nav>
-</header>
-        <!-- Navbar removed -->
+        <!-- End Navbar Area -->
+
         <!-- Start Modern Hero Section -->
         <section class="modern-hero-section">
             <style>
@@ -357,6 +531,7 @@
                     padding: 120px 0 80px;
                     overflow: hidden;
                 }
+                
                 /* Animated Stars */
                 .stars-container {
                     position: absolute;
@@ -367,12 +542,14 @@
                     pointer-events: none;
                     z-index: 1;
                 }
+                
                 .star {
                     position: absolute;
                     background: white;
                     border-radius: 50%;
                     animation: twinkle linear infinite;
                 }
+                
                 @keyframes twinkle {
                     0%, 100% { 
                         opacity: 0; 
@@ -383,6 +560,7 @@
                         transform: scale(1); 
                     }
                 }
+                
                 /* Shooting Stars */
                 .shooting-star {
                     position: absolute;
@@ -391,6 +569,7 @@
                     animation: shoot 3s linear infinite;
                     z-index: 1;
                 }
+                
                 @keyframes shoot {
                     0% {
                         transform: translateX(0) translateY(0);
@@ -401,6 +580,7 @@
                         opacity: 0;
                     }
                 }
+                
                 /* Nebula Effect */
                 .modern-hero-section::before {
                     content: '';
@@ -417,6 +597,7 @@
                     z-index: 1;
                     pointer-events: none;
                 }
+                
                 @keyframes nebula {
                     0% { 
                         opacity: 0.3; 
@@ -427,6 +608,7 @@
                         transform: scale(1.1); 
                     }
                 }
+                
                 /* Planets */
                 .planet {
                     position: absolute;
@@ -434,6 +616,7 @@
                     z-index: 2;
                     pointer-events: none;
                 }
+                
                 .planet-1 {
                     width: 200px;
                     height: 200px;
@@ -443,6 +626,7 @@
                     box-shadow: 0 0 60px rgba(139, 92, 246, 0.5);
                     animation: orbit 30s linear infinite;
                 }
+                
                 .planet-2 {
                     width: 120px;
                     height: 120px;
@@ -452,6 +636,7 @@
                     box-shadow: 0 0 40px rgba(236, 72, 153, 0.5);
                     animation: orbit 25s linear infinite reverse;
                 }
+                
                 @keyframes orbit {
                     0% { 
                         transform: rotate(0deg) translateX(20px) rotate(0deg); 
@@ -460,10 +645,12 @@
                         transform: rotate(360deg) translateX(20px) rotate(-360deg); 
                     }
                 }
+                
                 .modern-hero-section .container {
                     position: relative;
                     z-index: 2;
                 }
+                
                 .hero-badge {
                     display: inline-block;
                     background: rgba(255, 255, 255, 0.2);
@@ -477,6 +664,7 @@
                     margin-bottom: 24px;
                     animation: fadeInDown 0.8s ease;
                 }
+                
                 .hero-title {
                     font-size: 64px;
                     font-weight: 900;
@@ -485,6 +673,7 @@
                     margin-bottom: 20px;
                     animation: fadeInUp 0.8s ease 0.2s both;
                 }
+                
                 .hero-subtitle {
                     font-size: 20px;
                     color: rgba(255, 255, 255, 0.95);
@@ -492,6 +681,7 @@
                     font-weight: 500;
                     animation: fadeInUp 0.8s ease 0.3s both;
                 }
+                
                 .hero-subtitle-en {
                     font-size: 16px;
                     color: rgba(255, 255, 255, 0.85);
@@ -499,6 +689,7 @@
                     font-style: italic;
                     animation: fadeInUp 0.8s ease 0.4s both;
                 }
+                
                 .hero-description {
                     font-size: 18px;
                     color: rgba(255, 255, 255, 0.9);
@@ -509,9 +700,11 @@
                     margin-right: auto;
                     animation: fadeInUp 0.8s ease 0.5s both;
                 }
+                
                 .hero-cta {
                     animation: fadeInUp 0.8s ease 0.6s both;
                 }
+                
                 .hero-btn {
                     display: inline-flex;
                     align-items: center;
@@ -526,18 +719,22 @@
                     transition: all 0.3s ease;
                     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
                 }
+                
                 .hero-btn:hover {
                     background: #f8f9ff;
                     color: #667eea;
                     transform: translateY(-3px);
                     box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
                 }
+                
                 .hero-btn i {
                     transition: transform 0.3s ease;
                 }
+                
                 .hero-btn:hover i {
                     transform: translateX(5px);
                 }
+                
                 @keyframes fadeInDown {
                     from {
                         opacity: 0;
@@ -548,6 +745,7 @@
                         transform: translateY(0);
                     }
                 }
+                
                 @keyframes fadeInUp {
                     from {
                         opacity: 0;
@@ -558,6 +756,7 @@
                         transform: translateY(0);
                     }
                 }
+                
                 /* Floating decoration circles */
                 .hero-decoration {
                     position: absolute;
@@ -566,6 +765,7 @@
                     pointer-events: none;
                     z-index: 2;
                 }
+                
                 .hero-decoration-1 {
                     width: 300px;
                     height: 300px;
@@ -573,6 +773,7 @@
                     right: -100px;
                     animation: float 6s ease-in-out infinite;
                 }
+                
                 .hero-decoration-2 {
                     width: 200px;
                     height: 200px;
@@ -580,6 +781,7 @@
                     left: -50px;
                     animation: float 8s ease-in-out infinite reverse;
                 }
+                
                 @keyframes float {
                     0%, 100% {
                         transform: translateY(0) rotate(0deg);
@@ -588,87 +790,110 @@
                         transform: translateY(-20px) rotate(10deg);
                     }
                 }
+                
                 /* Responsive */
                 @media (max-width: 991px) {
                     .modern-hero-section {
                         padding: 100px 0 60px;
                     }
+                    
                     .hero-title {
                         font-size: 48px;
                     }
+                    
                     .hero-subtitle {
                         font-size: 18px;
                     }
+                    
                     .hero-description {
                         font-size: 16px;
                     }
+                    
                     .planet-1, .planet-2 {
                         width: 100px;
                         height: 100px;
                     }
                 }
+                
                 @media (max-width: 767px) {
                     .modern-hero-section {
                         padding: 80px 0 50px;
                     }
+                    
                     .hero-title {
                         font-size: 36px;
                     }
+                    
                     .hero-subtitle {
                         font-size: 16px;
                     }
+                    
                     .hero-badge {
                         font-size: 12px;
                         padding: 8px 20px;
                     }
+                    
                     .hero-btn {
                         padding: 14px 32px;
                         font-size: 15px;
                     }
+                    
                     .planet-1, .planet-2 {
                         display: none;
                     }
                 }
+                
                 @media (max-width: 575px) {
                     .hero-title {
                         font-size: 28px;
                     }
+                    
                     .hero-description {
                         font-size: 15px;
                     }
                 }
             </style>
+            
             <!-- Animated Stars -->
             <div class="stars-container" id="stars-container"></div>
+            
             <!-- Shooting Stars -->
             <div class="shooting-star" style="top: 20%; right: 30%; width: 100px; animation-delay: 0s;"></div>
             <div class="shooting-star" style="top: 40%; right: 60%; width: 80px; animation-delay: 2s;"></div>
             <div class="shooting-star" style="top: 70%; right: 20%; width: 120px; animation-delay: 4s;"></div>
+            
             <!-- Planets -->
             <div class="planet planet-1"></div>
             <div class="planet planet-2"></div>
+            
             <!-- Floating Decorations -->
             <div class="hero-decoration hero-decoration-1"></div>
             <div class="hero-decoration hero-decoration-2"></div>
+            
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10 col-md-12">
                         <div class="text-center">
                             <div class="hero-badge">
-                                Search Engine Optimization + Generative Engine Optimization
+                                Professional SEO Specialist | Search Engine Optimization Expert
                             </div>
-                            <h1 class="hero-title">
-                                #1 SEO Consultant in Sri Lanka 
+                            
+                            <h1 class="hero-title" itemprop="headline">
+                                Buddhika S Weerasekara - SEO Specialist Sri Lanka
                             </h1>
+                            
                             <p class="hero-subtitle">
                                 Search කරද්දී ඔයාටම හම්බුනා නේද එහෙනම් ඔයා ඉන්නේ හරිම තැන
                             </p>
+                            
                             <p class="hero-subtitle-en">
                                 (It means you have found the best SEO company in Sri Lanka)
                             </p>
-                            <p class="hero-description">
-                                As the leading SEO Consultant in Sri Lanka, I use 100% white-hat SEO techniques with deep keyword research, technical SEO improvements, and high-authority backlinks. As your trusted SEO Consultant Sri Lanka, I help businesses rank higher on Google and AI search engines for long-term growth.
+                            
+                            <p class="hero-description" itemprop="description">
+                                I'm Buddhika S Weerasekara, a professional SEO Specialist in Sri Lanka with over 15 years of experience. I help businesses grow through 100% white-hat SEO strategies, including comprehensive keyword research, technical optimization, on-page SEO, and strategic link building to achieve top Google rankings and sustainable organic traffic growth.
                             </p>
+                            
                             <div class="hero-cta">
                                 <a href="https://wa.me/94778064714" target="_blank" rel="noopener noreferrer" class="hero-btn">
                                     Get Started <i class="fa fa-arrow-right"></i>
@@ -678,8 +903,9 @@
                     </div>
                 </div>
             </div>
+            
             <!-- JavaScript for Stars Animation -->
-  <script>
+            <script>
                 (function() {
                     const container = document.getElementById('stars-container');
                     if (container && container.children.length === 0) {
@@ -699,14 +925,16 @@
             </script>
         </section>
         <!-- End Modern Hero Section -->
+
         <!-- Start Solutions Section -->
         <section class="solutions-section ptb-100">
             <div class="container">
                 <div class="solutions-title">
-                    <span>What I Offer as Your SEO Consultant in Sri Lanka</span>
-                    <h2>Complete SEO & GEO Solutions from the Best SEO Consultant Sri Lanka</h2>
-                    <p>As a professional SEO Consultant in Sri Lanka, I provide fully customized SEO solutions based on your business goals, competition, and target audience. My strategies focus on long-term growth with 100% white-hat techniques.</p>
+                    <span>Professional SEO Services</span>
+                    <h2>Complete SEO Solutions by Buddhika S Weerasekara</h2>
+                    <p>As a professional SEO specialist in Sri Lanka with proven expertise, I offer fully customized search engine optimization solutions tailored to your business goals, industry competition, and target audience. Get long-term organic growth with 100% white-hat SEO techniques.</p>
                 </div>
+
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
                         <div class="solutions-area-content">
@@ -714,10 +942,11 @@
                                 <i class="flaticon-data"></i>
                             </div>
                             <h3>Search Engine Optimization (SEO)</h3>
-                            <p>On-page optimization, technical SEO, content strategy, site audits, and link building to increase your search visibility and organic traffic.</p>
+                            <p>Comprehensive on-page optimization, technical SEO audits, content strategy, website analysis, and ethical link building to boost search rankings and organic traffic.</p>
                             <a href="services" class="">Learn More</a>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6">
                         <div class="solutions-area-content">
                             <div class="icon">
@@ -728,6 +957,7 @@
                             <a href="services" class="">Learn More</a>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
                         <div class="solutions-area-content">
                             <div class="icon">
@@ -742,20 +972,22 @@
             </div>
         </section>
         <!-- End Solutions Section -->
+
         <!-- Start About Section -->
         <section class="about-section pb-100">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="circulate-image">
-                            <img src="assets/img/seo.jpg" alt="Buddhika S Weerasekara - Professional SEO Consultant in Sri Lanka">
+                            <img src="assets/img/seo.jpg" alt="Buddhika S Weerasekara - SEO Expert">
                         </div>
                     </div>
+
                     <div class="col-lg-6 col-md-12">
-                        <div class="about-content-area">
-                            <span>About Me - Your Trusted SEO Consultant Sri Lanka</span>
-                            <h2>Why Choose Me as Your SEO Consultant in Sri Lanka?</h2>
-                            <p>As a qualified engineer and the leading SEO Consultant in Sri Lanka, I offer fully customized SEO solutions based on your business goals, competition, and target audience. As an experienced SEO Consultant Sri Lanka with a strong background in technical expertise and data analysis, I combine modern SEO practices to help businesses rank higher on Google and achieve long-term online success.</p>
+                        <div class="about-content-area" itemscope itemtype="http://schema.org/Person">
+                            <span>About Buddhika S Weerasekara</span>
+                            <h2>Why Choose Me as Your SEO Specialist in Sri Lanka?</h2>
+                            <p itemprop="description">I'm Buddhika S Weerasekara, a qualified engineer and certified SEO specialist in Sri Lanka with over 15 years of experience. With deep technical knowledge, data analytics expertise, and a proven track record of ranking websites on Google, I help businesses achieve sustainable online growth through strategic SEO implementation and ethical optimization practices.</p>
                             <p>My strategies focus on long-term growth, not short-term tricks. I use 100% white-hat SEO techniques with deep keyword research, technical SEO improvements, and high-authority backlinks.</p>
                             <div class="about-btn">
                                 <a href="about" class="about-btn-one">
@@ -767,23 +999,27 @@
             </div>
         </section>
         <!-- End About Section -->
+
         <!-- Start Co-operative Section -->
         <section class="co-operative-section">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="co-operative-title">
-                            <span>Why Work With an Expert SEO Consultant in Sri Lanka</span>
-                            <h2>What Makes This SEO Consultant Sri Lanka Different?</h2>
+                            <span>Why Work With Me</span>
+                            <h2>What Makes My SEO Services Different?</h2>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="co-operative-text">
-                            <p>As your dedicated SEO Consultant in Sri Lanka, I provide 100% white-hat SEO techniques, deep keyword research & competitor analysis, on-page & technical SEO improvements, high-authority backlinks, local SEO for Google Maps ranking, and monthly reports with real growth tracking. Choose the best SEO Consultant Sri Lanka who works directly with you for transparent and affordable SEO packages.</p>
+                            <p>As an experienced SEO specialist in Sri Lanka, I deliver proven results through 100% white-hat SEO strategies, comprehensive keyword research & competitive analysis, advanced technical optimization, high-quality backlink acquisition, local SEO for Google Maps visibility, and detailed monthly performance reports. Get transparent, affordable, and results-driven SEO services with direct communication and personalized attention to your business needs.</p>
                         </div>
                     </div>
                 </div>
+
+              
         <!-- End Co-operative Section -->
+
         <!-- Start Counter Area -->
         <section class="counter-area bg-color">
             <div class="container">
@@ -796,6 +1032,7 @@
                             <p>Years Experience</p>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-fun-facts">
                             <h3>
@@ -804,6 +1041,7 @@
                             <p>Happy Clients</p>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-fun-facts">
                             <h3>
@@ -812,6 +1050,7 @@
                             <p>White-hat SEO</p>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-fun-facts">
                             <h3>
@@ -824,15 +1063,16 @@
             </div>
         </section>
         <!-- End Counter Area -->
+
         <!-- Start Grow Section -->
         <section class="grow-section ptb-100">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="grow-area-content">
-                            <span>How SEO Works - Expert SEO Consultant Sri Lanka</span>
-                            <h2>Proven SEO Strategies from Your SEO Consultant in Sri Lanka</h2>
-                            <p>As a trusted SEO Consultant in Sri Lanka, I provide comprehensive SEO solutions that combine technical expertise with strategic optimization. My approach as an experienced SEO Consultant Sri Lanka focuses on sustainable, long-term results rather than quick fixes. Every strategy is tailored to your specific business goals, industry competition, and target audience.</p>
+                            <span>My SEO Process</span>
+                            <h2>Data-Driven SEO Strategies That Deliver Results</h2>
+                            <p>As a professional SEO specialist in Sri Lanka with extensive experience, I deliver comprehensive SEO solutions combining technical expertise with strategic content optimization. My methodology emphasizes sustainable, measurable results instead of short-term tactics. Every SEO campaign is customized based on in-depth analysis of your business objectives, market competition, and customer search behavior.</p>
                             <div class="row align-items-center">
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div class="grow-content-bar">
@@ -857,9 +1097,10 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="col-lg-6 col-md-12">
                         <div class="grow-image">
-                            <img src="assets/img/123.png" alt="SEO Consultant Sri Lanka - Growth Strategy and Results">
+                            <img src="assets/img/123.png" alt="SEO Growth Strategy">
                         </div>
                     </div>
                 </div>
@@ -871,13 +1112,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
                         <div class="develop-image">
-                            <img src="assets/img/Untitled design (93).png" alt="Professional SEO Services Sri Lanka - Technical Optimization">
+                            <img src="assets/img/Untitled design (93).png" alt="SEO Services">
                         </div>
                     </div>
+
                     <div class="col-lg-6 col-md-12">
                         <div class="develop-content-area">
-                            <span>Benefits of Hiring the Best SEO Consultant in Sri Lanka</span>
-                            <h2>Complete SEO Solutions from Your Expert SEO Consultant Sri Lanka</h2>
+                            <span>Why Choose My SEO Services</span>
+                            <h2>Complete SEO Solutions Tailored for Your Success</h2>
                             <div class="develop-single-area">
                                 <div class="icon">
                                     <i class="flaticon-work-time"></i>
@@ -885,6 +1127,7 @@
                                 <h3>Deep Keyword Research & Analysis</h3>
                                 <p>Comprehensive competitor analysis and keyword research to identify high-opportunity ranking targets aligned with your business goals.</p>
                             </div>
+
                             <div class="develop-single-area bg-00a86f">
                                 <div class="icon">
                                     <i class="flaticon-monitor"></i>
@@ -892,6 +1135,7 @@
                                 <h3>Technical SEO Excellence</h3>
                                 <p>Site speed optimization, mobile responsiveness, schema markup, indexing fixes, and core web vitals to ensure Google visibility.</p>
                             </div>
+
                             <div class="develop-single-area bg-07328f">
                                 <div class="icon">
                                     <i class="flaticon-it"></i>
@@ -911,6 +1155,7 @@
             </div>
         </section>
         <!-- End Develop Section -->
+
         <!-- Start Blog Section -->
         <section class="blog-section startup-blog pt-100 pb-70">
             <div class="container">
@@ -925,6 +1170,7 @@
                         </a>
                     </div>
                 </div>
+
                 <style>
                     .blog-scroll-container {
                         overflow-x: auto;
@@ -1004,10 +1250,11 @@
                         color: #1f3a0f;
                     }
                 </style>
+
                 <div class="blog-scroll-container">
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
-                            <h4><a href="ai-seo" style="color: #2d5016; text-decoration: none;">AI SEO – Complete Guide</a></h4>
+                            <h4><a href="ai-seo" style="color: #2d5016; text-decoration: none;">AI SEO � Complete Guide</a></h4>
                             <p>How AI transforms SEO in 2025. Learn about GEO and AI-powered search optimization strategies.</p>
                             <div class="blog-card-meta">
                                 <span class="blog-card-date"><i class="flaticon-appointment"></i> Jan 27</span>
@@ -1015,6 +1262,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="seo-price-in-sri-lanka" style="color: #2d5016; text-decoration: none;">SEO Price in Sri Lanka</a></h4>
@@ -1025,6 +1273,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="seo-agency-sri-lanka" style="color: #2d5016; text-decoration: none;">SEO Agency Sri Lanka</a></h4>
@@ -1035,6 +1284,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="seo-service-sri-lanka" style="color: #2d5016; text-decoration: none;">SEO Service Sri Lanka</a></h4>
@@ -1045,6 +1295,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="seo-sri-lanka" style="color: #2d5016; text-decoration: none;">SEO Sri Lanka</a></h4>
@@ -1055,6 +1306,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="how-long-does-seo-take" style="color: #2d5016; text-decoration: none;">How Long Does SEO Take</a></h4>
@@ -1065,6 +1317,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="how-to-become-seo-specialist" style="color: #2d5016; text-decoration: none;">How to Become SEO Specialist</a></h4>
@@ -1075,6 +1328,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="what-does-seo-stand-for" style="color: #2d5016; text-decoration: none;">What Does SEO Stand For</a></h4>
@@ -1085,6 +1339,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="what-is-seo" style="color: #2d5016; text-decoration: none;">What is SEO</a></h4>
@@ -1095,6 +1350,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="best-seo-company-sri-lanka" style="color: #2d5016; text-decoration: none;">Best SEO Company</a></h4>
@@ -1105,6 +1361,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="seo-expert-sri-lanka" style="color: #2d5016; text-decoration: none;">SEO Expert Sri Lanka</a></h4>
@@ -1115,6 +1372,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="seo-specialist-guide-sri-lanka" style="color: #2d5016; text-decoration: none;">SEO Selection & Strategy</a></h4>
@@ -1125,6 +1383,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="blog-card-scroll">
                         <div class="blog-card-content">
                             <h4><a href="seo-specialist-sri-lanka" style="color: #2d5016; text-decoration: none;">SEO Specialist Sri Lanka</a></h4>
@@ -1139,13 +1398,14 @@
             </div>
         </section>
         <!-- End Blog Section -->
+
         <!-- Start Job Opportunities Section -->
         <section class="job-opportunities ptb-100">
             <div class="container">
                 <div class="section-title">
-                    <span>Ready to Grow with the #1 SEO Consultant in Sri Lanka?</span>
-                    <h2>Get Your Website Ranking on Google with Expert SEO Consultant Sri Lanka</h2>
-                    <p>Don't let your competitors dominate search results. Partner with the leading SEO Consultant in Sri Lanka for professional SEO services tailored to your business. As the best SEO Consultant Sri Lanka, I offer transparent pricing and proven results. Contact me for a free consultation.</p>
+                    <span>Ready to Grow Your Business?</span>
+                    <h2>Get Your Website Ranking #1 on Google</h2>
+                    <p>Don't let competitors steal your customers through search engines. Partner with Buddhika S Weerasekara, a professional SEO specialist in Sri Lanka, for results-driven SEO services customized for your business. Get transparent communication, ethical SEO practices, and measurable ROI. Contact me today for a free SEO audit and consultation.</p>
                 </div>
                 <div class="grow-btn">
                     <a href="contact" class="grow-btn-one">Get Free Consultation 
@@ -1158,16 +1418,18 @@
             </div>
         </section>
         <!-- End Job Oportunities Section -->
+
         <!-- Start Footer Section -->
         <footer class="footer-section startup-footer">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="footer-area-content">
-                            <img src="assets/img/seo logo.png" alt="SEO Consultant in Sri Lanka - Buddhika S Weerasekara">
-                            <p>Buddhika S. Weerasekara - #1 SEO Consultant in Sri Lanka. As the leading SEO Consultant Sri Lanka, I specialize in SEO and GEO optimization for businesses of all sizes. Get expert SEO services from the best SEO Consultant in Sri Lanka.</p>
+                        <div class="footer-area-content" itemscope itemtype="http://schema.org/LocalBusiness">
+                            <img src="assets/img/seo logo.png" alt="SEO Specialist Sri Lanka - Buddhika S Weerasekara" itemprop="logo">
+                            <p itemprop="description"><span itemprop="name">Buddhika S. Weerasekara</span> - Professional SEO Specialist in Sri Lanka with 15+ years of experience. I offer expert search engine optimization, technical SEO, content optimization, and link building services for businesses looking to dominate Google search results and grow their online presence.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Quick Links</h3>
@@ -1190,6 +1452,7 @@
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Our Services</h3>
@@ -1212,6 +1475,7 @@
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Contact Information</h3>
@@ -1255,10 +1519,11 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="copyright-area">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
-                            <p>– 2025 SEO Consultant in Sri Lanka | Best SEO Consultant Sri Lanka. All Rights Reserved by Buddhika S Weerasekara</p>
+                            <p>� 2025 Buddhika S Weerasekara - SEO Specialist Sri Lanka. All Rights Reserved.</p>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <ul>
@@ -1274,19 +1539,20 @@
                 </div>
             </div>
             <div class="shape shape-1">
-                <img src="assets/img/shape/13.png" alt="SEO Consultant Sri Lanka Decorative Element">
+                <img src="assets/img/shape/13.png" alt="">
             </div>
             <div class="shape shape-2">
-                <img src="assets/img/shape/14.png" alt="Professional SEO Services Decoration">
+                <img src="assets/img/shape/14.png" alt="">
             </div>
             <div class="shape shape-3">
-                <img src="assets/img/shape/15.png" alt="SEO Expert Sri Lanka Design Element">
+                <img src="assets/img/shape/15.png" alt="">
             </div>
             <div class="shape shape-4">
-                <img src="assets/img/shape/16.png" alt="Best SEO Consultant Graphic Element">
+                <img src="assets/img/shape/16.png" alt="">
             </div>
         </footer>
         <!-- End Footer Section -->
+
        <!-- Start Subscribe -->
         <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">
@@ -1307,42 +1573,44 @@
             </div>
         </div>
         <!-- End Subscribe -->
+
         <!-- Start Go Top Section -->
         <div class="go-top">
             <i class="fas fa-chevron-up"></i>
             <i class="fas fa-chevron-up"></i>
         </div>
         <!-- End Go Top Section -->
+
         <!-- jQuery Min JS -->
-  <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap Bundle Min JS -->
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- MeanMenu JS  -->
-  <script src="assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Appear Min JS -->
-  <script src="assets/js/jquery.appear.min.js"></script>
+        <script src="assets/js/jquery.appear.min.js"></script>
         <!-- Odometer Min JS -->
-  <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Owl Carousel Min JS -->
-  <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Magnific Popup Min JS -->
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <!-- Nice Select Min JS -->
-  <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
         <!-- WOW Min JS -->
-  <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
         <!-- Form Validator JS -->
-  <script src="assets/js/form-validator.min.js"></script>
+		<script src="assets/js/form-validator.min.js"></script>
         <!-- Ajaxchimp Min JS -->
-  <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 		<!-- Contact JS -->
-  <script src="assets/js/contact-form-script.js"></script>
+		<script src="assets/js/contact-form-script.js"></script>
         <!-- Particles JS -->
-  <script src="assets/js/particles.min.js"></script>
+        <script src="assets/js/particles.min.js"></script>
         <!-- Progressbar Min JS -->
-  <script src="assets/js/progressbar.min.js"></script>
+        <script src="assets/js/progressbar.min.js"></script>
         <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+        <script src="assets/js/main.js"></script>
     <!-- WhatsApp Chat Button -->
     <a href="https://wa.me/94778064714" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
         <i class="fab fa-whatsapp"></i>
@@ -1378,6 +1646,6 @@
             line-height: 60px;
         }
     </style>
+
     </body >
 </html>
-

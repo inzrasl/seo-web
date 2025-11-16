@@ -1,9 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
         <!-- Bootstrap Min CSS -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <!-- Animate Min CSS -->
@@ -34,22 +35,26 @@
         <link rel="stylesheet" href="assets/css/dark.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
+
         <title>SEO Price in Sri Lanka | Affordable SEO Packages - Buddhika S Weerasekara</title>
         <meta name="description" content="Check SEO Price in Sri Lanka with transparent packages starting from LKR 25,000. Get professional SEO services, Google My Business optimization, and AI search ranking from the best SEO company Sri Lanka.">
         <meta name="keywords" content="SEO Price in Sri Lanka, SEO Pricing Sri Lanka, SEO Packages Sri Lanka, SEO Cost Sri Lanka, Affordable SEO Sri Lanka, SEO Services Price, SEO Price List, Digital Marketing Price Sri Lanka">
         <link rel="canonical" href="https://seoconsultantsrilanka.com/pricing" />
+        
         <!-- Open Graph for Social Sharing & AI Crawlers -->
         <meta property="og:title" content="SEO Price in Sri Lanka | Affordable Packages">
         <meta property="og:description" content="Transparent SEO Price in Sri Lanka starting from LKR 25,000. Professional SEO packages with guaranteed results.">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://seoconsultantsrilanka.com/pricing">
         <meta property="og:image" content="https://seoconsultantsrilanka.com/assets/img/seo-logo.png">
+        
         <!-- Twitter Card -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="SEO Price in Sri Lanka | Affordable Packages">
         <meta name="twitter:description" content="Transparent SEO Price in Sri Lanka starting from LKR 25,000. Get professional SEO services with guaranteed rankings.">
+        
         <!-- Structured Data for Pricing -->
-  <script type="application/ld+json">
+        <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "Product",
@@ -87,7 +92,9 @@
           ]
         }
         </script>
+
         <link rel="icon" type="image/png" href="assets/img/favicon.png">
+        
         <style>
             /* Universe Animated Background for Hero */
             .page-title-area {
@@ -96,6 +103,7 @@
                 background: radial-gradient(ellipse at bottom, #0d1b2a 0%, #000000 100%);
                 min-height: 400px;
             }
+            
             .universe-stars {
                 position: absolute;
                 top: 0;
@@ -105,16 +113,19 @@
                 pointer-events: none;
                 z-index: 1;
             }
+            
             .universe-star {
                 position: absolute;
                 background: white;
                 border-radius: 50%;
                 animation: twinkleUniverse linear infinite;
             }
+            
             @keyframes twinkleUniverse {
                 0%, 100% { opacity: 0.3; transform: scale(0.8); }
                 50% { opacity: 1; transform: scale(1.2); }
             }
+            
             .universe-shooting-star {
                 position: absolute;
                 height: 2px;
@@ -122,10 +133,12 @@
                 animation: shootUniverse 4s linear infinite;
                 z-index: 1;
             }
+            
             @keyframes shootUniverse {
                 0% { transform: translateX(0) translateY(0); opacity: 1; }
                 100% { transform: translateX(-600px) translateY(400px); opacity: 0; }
             }
+            
             .page-title-area::before {
                 content: '';
                 position: absolute;
@@ -139,14 +152,17 @@
                 animation: nebulaFloat 15s ease-in-out infinite alternate;
                 z-index: 1;
             }
+            
             @keyframes nebulaFloat {
                 0% { opacity: 0.4; transform: scale(1); }
                 100% { opacity: 0.7; transform: scale(1.15); }
             }
+            
             .page-title-content {
                 position: relative;
                 z-index: 10;
             }
+            
             /* Pricing Cards Enhancement */
             .single-pricing-box {
                 background: #ffffff;
@@ -159,14 +175,17 @@
                 display: flex;
                 flex-direction: column;
             }
+            
             .single-pricing-box:hover {
                 transform: translateY(-10px);
                 box-shadow: 0 15px 50px rgba(138, 43, 226, 0.2);
             }
+            
             .table-price {
                 border: 3px solid #8b5cf6;
                 position: relative;
             }
+            
             .popular-badge {
                 position: absolute;
                 top: -15px;
@@ -179,86 +198,166 @@
                 font-size: 14px;
                 box-shadow: 0 5px 15px rgba(139, 92, 246, 0.4);
             }
+            
             .pricing-features {
                 flex-grow: 1;
                 list-style: none;
                 padding: 0 30px;
                 margin-bottom: 20px;
             }
+            
             .buy-btn {
                 margin-top: auto;
                 padding: 20px;
             }
+            
             /* Fix row alignment */
             .pricing-section .row {
                 display: flex;
                 flex-wrap: wrap;
                 margin: 0 -15px;
             }
+            
             .pricing-section .row > [class*='col-'] {
                 display: flex;
                 padding: 0 15px;
             }
+            
             /* Reduce logo size in header */
+            .navbar-brand img,
             .exto-responsive-menu .logo img {
                 max-width: 240px;
                 height: auto;
             }
         </style>
-        <link rel="stylesheet" href="assets/css/header.css">
-</head>
-<body>
-<!-- Reusable Header Component (static HTML version of provided React idea) -->
-<header id="site-header" class="site-header" aria-label="Primary Header">
-  <nav class="nav-wrap" aria-label="Primary Navigation">
-    <div class="nav-inner">
-      <!-- Logo / Brand -->
-      <a class="brand" href="/" aria-label="Home">
-        <div class="brand-mark">
-          <span>L</span>
+    </head>
+    <body>
+        <!-- Start Navbar Area -->
+        <div class="navbar-area">
+            <div class="exto-responsive-nav">
+                <div class="container">
+                    <div class="exto-responsive-menu">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="assets/img/seo logo.png" alt="Best SEO Company in Sri Lanka">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="exto-nav">
+                <div class="container">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="/">
+                            <img src="assets/img/seo logo.png" alt="Best SEO Company in Sri Lanka">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                                                        <ul class="navbar-nav ml-auto">
+                                <li class="nav-item">
+                                    <a href="/" class="nav-link">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="contact" class="nav-link">Contact</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="services" class="nav-link">Service</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="pricing" class="nav-link active">Pricing</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="faq" class="nav-link">FAQ</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="blog" class="nav-link">Blog</a>
+                                </li>
+                            </ul>
+                                <li class="nav-item">
+                                    <a href="about" class="nav-link">About Us</a>
+                                </li>
+                                <li class="nav-item"><a href="services" class="nav-link">Service</a></li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Projects 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="projects" class="nav-link">Project</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="single-projects" class="nav-link">Project Details</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link active">
+                                        Pages 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="about" class="nav-link">About Us</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="team" class="nav-link">Team</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="faq" class="nav-link">FAQ</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="pricing" class="nav-link active">Pricing</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="login" class="nav-link">Log in</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="signup" class="nav-link">Sign up</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="error-404" class="nav-link">404 Error</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="contact" class="nav-link">Contact</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="coming-soon" class="nav-link">Coming Soon</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Shop
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Blog
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="blog" class="nav-link">Blog</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="single-blog" class="nav-link">Blog Details</a>
+                                        </li>
+                                    </ul>
+                                <li class="nav-item">
+                                    <a href="contact" class="nav-link">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
         </div>
-        <img class="brand-logo" src="assets/img/seo logo.png" alt="SEO Consultant Sri Lanka Logo">
-        <span class="brand-text">SEO Consultant</span>
-      </a>
-      <!-- Desktop Menu -->
-      <ul class="menu" role="menubar">
-        <li role="none"><a role="menuitem" href="/">Home</a></li>
-        <li role="none"><a role="menuitem" href="about">About Us</a></li>
-        <li role="none"><a role="menuitem" href="services">Services</a></li>
-        <li role="none"><a role="menuitem" href="projects">Portfolio</a></li>
-        <li role="none"><a role="menuitem" href="pricing">Pricing</a></li>
-        <li role="none"><a role="menuitem" href="faq">FAQ</a></li>
-        <li role="none"><a role="menuitem" href="blog">Blog</a></li>
-        <li role="none"><a role="menuitem" href="contact">Contact</a></li>
-      </ul>
-      <!-- Desktop Phone CTA -->
-      <a class="phone-cta" href="tel:+94778064714" aria-label="Call +94 77 806 4714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-      <!-- Mobile Toggle -->
-      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span><span></span><span></span>
-      </button>
-    </div>
-    <!-- Mobile Menu -->
-    <div class="mobile-menu" hidden>
-      <a href="/">Home</a>
-      <a href="about">About Us</a>
-      <a href="services">Services</a>
-      <a href="projects">Portfolio</a>
-      <a href="pricing">Pricing</a>
-      <a href="faq">FAQ</a>
-      <a href="blog">Blog</a>
-      <a href="contact">Contact</a>
-      <a class="phone-cta mobile" href="tel:+94778064714">
-        <svg class="phone-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.89.32 1.76.59 2.6a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.48-1.11a2 2 0 0 1 2.11-.45c.84.27 1.71.47 2.6.59A2 2 0 0 1 22 16.92z"/></svg>
-        <span>+94 77 806 4714</span>
-      </a>
-    </div>
-  </nav>
-</header>
-        <!-- Navbar removed -->
+        <!-- End Navbar Area -->
+
         <!-- Start Page Title Area -->
         <div class="page-title-area">
             <!-- Universe Background Elements -->
@@ -266,6 +365,7 @@
             <div class="universe-shooting-star" style="top: 20%; left: 80%; width: 100px;"></div>
             <div class="universe-shooting-star" style="top: 60%; left: 60%; width: 80px; animation-delay: 2s;"></div>
             <div class="universe-shooting-star" style="top: 40%; left: 90%; width: 120px; animation-delay: 3.5s;"></div>
+            
             <div class="d-table">
                 <div class="d-table-cell">
                     <div class="container">
@@ -282,8 +382,9 @@
                     </div>
                 </div>
             </div>
+            
             <!-- JavaScript for Stars Animation -->
-  <script>
+            <script>
                 (function() {
                     const container = document.getElementById('stars-container');
                     if (container && container.children.length === 0) {
@@ -303,6 +404,7 @@
             </script>
         </div>
         <!-- End Page Title Area -->
+
         <!-- Start Pricing Section -->
         <section class="pricing-section ptb-100">
             <div class="container">
@@ -311,6 +413,7 @@
                     <h2>SEO Price in Sri Lanka - Affordable Packages</h2>
                     <p>Choose the perfect SEO package for your business. All packages include white-hat techniques and guaranteed results from the Best SEO Company in Sri Lanka.</p>
                 </div>
+                
                 <div class="row justify-content-center">
                     <!-- Package 1: SEO Consultation -->
                     <div class="col-lg-4 col-md-6 col-sm-12">
@@ -354,6 +457,7 @@
                             </div>
                         </div>   
                     </div>
+
                     <!-- Package 2: SEO & GEO (Most Popular) -->
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="single-pricing-box table-price">
@@ -405,6 +509,7 @@
                             </div>
                         </div>
                     </div>
+
                     <!-- Package 3: Google My Business -->
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="single-pricing-box">
@@ -448,6 +553,7 @@
                         </div>   
                     </div>
                 </div>
+                
                 <!-- Additional Info Section -->
                 <div class="row mt-5">
                     <div class="col-lg-12">
@@ -489,6 +595,7 @@
             </div>
         </section>
         <!-- End Pricing Section -->
+
         <!-- Start Saying Section -->
         <section class="saying-section ptb-100">
             <div class="container">
@@ -541,6 +648,7 @@
             </div>
         </section>
         <!-- End Saying Section -->
+
         <!-- Start Request Section -->
         <section class="request-section ptb-100">
             <div class="container">
@@ -577,6 +685,7 @@
                             </div>
                         </div>    
                     </div>
+
                     <div class="col-lg-6">
                         <div class="request" style="text-align: center;">
                             <img src="assets/img/b_use_this_image_and_c.png" alt="Buddhika S Weerasekara - SEO Expert Sri Lanka" style="max-width: 400px; border-radius: 50%; box-shadow: 0 10px 40px rgba(139, 92, 246, 0.3);">
@@ -586,6 +695,7 @@
             </div>
         </section>
         <!-- End Request Section -->
+
         <!-- Start FAQ Section -->
         <section class="faq-section ptb-100" style="background: #f8f9fa;">
             <div class="container">
@@ -594,6 +704,7 @@
                     <h2>Common Questions About SEO Price in Sri Lanka</h2>
                     <p>Get answers to your questions about our transparent SEO pricing and packages.</p>
                 </div>
+                
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="faq-accordion">
@@ -612,6 +723,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <div class="card" style="margin-bottom: 15px; border-radius: 10px;">
                                     <div class="card-header" id="faq2">
                                         <h5 class="mb-0">
@@ -626,6 +738,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <div class="card" style="margin-bottom: 15px; border-radius: 10px;">
                                     <div class="card-header" id="faq3">
                                         <h5 class="mb-0">
@@ -640,6 +753,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <div class="card" style="margin-bottom: 15px; border-radius: 10px;">
                                     <div class="card-header" id="faq4">
                                         <h5 class="mb-0">
@@ -654,6 +768,7 @@
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <div class="card" style="margin-bottom: 15px; border-radius: 10px;">
                                     <div class="card-header" id="faq5">
                                         <h5 class="mb-0">
@@ -675,6 +790,7 @@
             </div>
         </section>
         <!-- End FAQ Section -->
+
         <!-- Start Footer Section -->
         <footer class="footer-section">
             <div class="container">
@@ -685,6 +801,7 @@
                             <p>Buddhika S Weerasekara - Best SEO Company in Sri Lanka offering transparent SEO price and guaranteed results. 15+ years of experience delivering white-hat SEO services for businesses of all sizes.</p>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Company</h3>
@@ -707,28 +824,30 @@
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>SEO Services</h3>
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="best-seo-company-sri-lanka">Best SEO Company Sri Lanka</a>
+                                    <a href="best seo company in sri lanka">Best SEO Company Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo-expert-sri-lanka">SEO Expert Sri Lanka</a>
+                                    <a href="seo expert in srilanka">SEO Expert Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo-specialist-sri-lanka">SEO Specialist Sri Lanka</a>
+                                    <a href="seo specialist sri lanka">SEO Specialist Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="seo-sri-lanka">SEO Sri Lanka</a>
+                                    <a href="seo sri lanka">SEO Sri Lanka</a>
                                 </li>
                                 <li>
-                                    <a href="ai-seo">AI SEO & GEO</a>
+                                    <a href="ai seo">AI SEO & GEO</a>
                                 </li>
                             </ul>
                         </div>
                     </div>
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Contact Us</h3>
@@ -777,10 +896,11 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="copyright-area">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
-                            <p>– 2025 Best SEO Company in Sri Lanka - Buddhika S Weerasekara. All Rights Reserved.</p>
+                            <p>� 2025 Best SEO Company in Sri Lanka - Buddhika S Weerasekara. All Rights Reserved.</p>
                         </div>
                         <div class="col-lg-6 col-md-6">
                             <ul>
@@ -797,42 +917,44 @@
             </div>
         </footer>
         <!-- End Footer Section -->
+
         <!-- Start Go Top Section -->
         <div class="go-top">
             <i class="fas fa-chevron-up"></i>
             <i class="fas fa-chevron-up"></i>
         </div>
         <!-- End Go Top Section -->
+
         <!-- jQuery Min JS -->
-  <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap Bundle Min JS -->
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- MeanMenu JS  -->
-  <script src="assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Appear Min JS -->
-  <script src="assets/js/jquery.appear.min.js"></script>
+        <script src="assets/js/jquery.appear.min.js"></script>
         <!-- Odometer Min JS -->
-  <script src="assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Owl Carousel Min JS -->
-  <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Magnific Popup Min JS -->
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="assets/js/jquery.magnific-popup.min.js"></script>
         <!-- Nice Select Min JS -->
-  <script src="assets/js/jquery.nice-select.min.js"></script>
+        <script src="assets/js/jquery.nice-select.min.js"></script>
         <!-- WOW Min JS -->
-  <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/wow.min.js"></script>
         <!-- Form Validator JS -->
-  <script src="assets/js/form-validator.min.js"></script>
+		<script src="assets/js/form-validator.min.js"></script>
         <!-- Ajaxchimp Min JS -->
-  <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
 		<!-- Contact JS -->
-  <script src="assets/js/contact-form-script.js"></script>
+		<script src="assets/js/contact-form-script.js"></script>
         <!-- Particles JS -->
-  <script src="assets/js/particles.min.js"></script>
+        <script src="assets/js/particles.min.js"></script>
         <!-- Progressbar Min JS -->
-  <script src="assets/js/progressbar.min.js"></script>
+        <script src="assets/js/progressbar.min.js"></script>
         <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+        <script src="assets/js/main.js"></script>
     <!-- WhatsApp Chat Button -->
     <a href="https://wa.me/94778064714" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
         <i class="fab fa-whatsapp"></i>
@@ -868,7 +990,6 @@
             line-height: 60px;
         }
     </style>
-        `n  <script src="assets/js/header.js" defer></script>
-</body>
-</html>
 
+    </body>
+</html>
