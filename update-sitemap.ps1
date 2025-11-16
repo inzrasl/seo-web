@@ -5,8 +5,15 @@ $domain = "https://seoconsultantsrilanka.com"
 $outputPath = ".\assets\sitemap.xml"
 $currentDate = (Get-Date).ToString("yyyy-MM-ddTHH:mm:sszzz")
 
-# Get all HTML files in the current directory
-$htmlFiles = Get-ChildItem -Path "." -Filter "*.html" | Sort-Object Name
+# Get all HTML files in the current directory, excluding non-public/partial files
+$exclude = @(
+    'header-component.html',
+    'navbar-component.html',
+    '403.html','404.html','500.html'
+)
+$htmlFiles = Get-ChildItem -Path "." -Filter "*.html" |
+    Where-Object { $exclude -notcontains $_.Name } |
+    Sort-Object Name
 
 # Define priority based on page importance
 function Get-Priority {
