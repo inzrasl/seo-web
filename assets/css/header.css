@@ -1,5 +1,5 @@
 /* Header styles: black bar, white text, larger logo */
-body { padding-top: 120px; }
+body { padding-top: 110px; } /* match header height to remove white gap */
 #site-header.site-header { position:fixed; inset:0 auto auto 0; right:0; z-index:1000; background:#000; box-shadow:0 6px 18px -8px rgba(0,0,0,0.7); border-bottom:1px solid rgba(255,255,255,0.06); }
 #site-header .nav-wrap { max-width:1200px; margin:0 auto; padding:0 16px; }
 #site-header .nav-inner { display:flex; align-items:center; justify-content:space-between; height:110px; }
