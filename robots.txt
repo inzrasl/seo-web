@@ -1,5 +1,7 @@
 # Robots.txt with Security Best Practices
 User-agent: *
+Disallow: /*?p=
+Disallow: /p=
 Disallow: /assets/php/
 Disallow: /admin/
 Disallow: /config/
