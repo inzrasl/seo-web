@@ -6,6 +6,14 @@
 RewriteEngine On
 
 # ================================================
+# BLOCK HACKED ?p= PARAMETER URLS
+# ================================================
+
+# Block hacked ?p=123456 URLs
+RewriteCond %{QUERY_STRING} ^p=[0-9]+$
+RewriteRule ^$ - [G,L]
+
+# ================================================
 # ALLOW SEARCH ENGINE ACCESS TO SEO FILES
 # ================================================
 
