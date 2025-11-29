@@ -1,64 +1,28 @@
 # ================================================
-# OPTIMIZED WEBSITE CONFIGURATION FOR CPANEL
+# WEBSITE CONFIGURATION FOR CPANEL - SIMPLE VERSION
 # ================================================
 
 # Enable URL Rewriting
 RewriteEngine On
+RewriteBase /
 
 # ================================================
-# ALLOW ALL ASSET FILES TO LOAD
+# REMOVE .HTML EXTENSION FROM URLS
 # ================================================
 
-# Allow CSS, JavaScript, Images, Fonts - NO HOTLINK PROTECTION
-<FilesMatch "\.(css|js|jpg|jpeg|png|gif|webp|svg|ico|woff|woff2|ttf|otf|eot)$">
-    <IfModule mod_headers.c>
-        Header set Cache-Control "public, max-age=31536000"
-    </IfModule>
-</FilesMatch>
-
-# ================================================
-# ALLOW SEARCH ENGINE ACCESS
-# ================================================
-
-<FilesMatch "^(sitemap\.xml|robots\.txt)$">
-    Order Allow,Deny
-    Allow from all
-    Satisfy Any
-</FilesMatch>
+# If the request is not a real directory
+RewriteCond %{REQUEST_FILENAME} !-d
+# If the request is not a real file
+RewriteCond %{REQUEST_FILENAME} !-f
+# If a file with .html extension exists
+RewriteCond %{REQUEST_FILENAME}\.html -f
+# Serve the .html file
+RewriteRule ^(.*)$ $1.html [L,QSA]
 
 # ================================================
 # DISABLE DIRECTORY LISTING
 # ================================================
 Options -Indexes
-
-# ================================================
-# REMOVE SERVER SIGNATURE
-# ================================================
-ServerSignature Off
-
-# ================================================
-# SECURITY HEADERS
-# ================================================
-
-<IfModule mod_headers.c>
-    # Prevent clickjacking attacks
-    Header always set X-Frame-Options "SAMEORIGIN"
-    
-    # Enable XSS protection
-    Header always set X-XSS-Protection "1; mode=block"
-    
-    # Prevent MIME type sniffing
-    Header always set X-Content-Type-Options "nosniff"
-    
-    # Referrer policy
-    Header always set Referrer-Policy "strict-origin-when-cross-origin"
-    
-    # Strict Transport Security (HSTS)
-    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
-    
-    # Remove server signature
-    Header always unset X-Powered-By
-</IfModule>
 
 # ================================================
 # BROWSER CACHING FOR PERFORMANCE
@@ -81,35 +45,21 @@ ServerSignature Off
 # GZIP COMPRESSION
 # ================================================
 <IfModule mod_deflate.c>
-    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+    AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/json
 </IfModule>
 
 # ================================================
-# REMOVE .HTML EXTENSION FROM URLS
+# SECURITY HEADERS
 # ================================================
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
-RewriteRule ^ %1 [R=301,L]
-
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.+)$ $1.html [L,QSA]
-
-# ================================================
-# BLOCK BAD BOTS
-# ================================================
-RewriteCond %{HTTP_USER_AGENT} ^.*(scrape|harvest|extract|grab|siphon|wget|curl|python|sqlmap).* [NC]
-RewriteRule ^(.*)$ - [F,L]
+<IfModule mod_headers.c>
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
 
 # ================================================
 # FORCE HTTPS
 # ================================================
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
-# ================================================
-# KEEP-ALIVE
-# ================================================
-<IfModule mod_headers.c>
-    Header set Connection keep-alive
-</IfModule>
