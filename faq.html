@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
     <head>
             <!-- Required meta tags -->
@@ -36,6 +36,51 @@
         <link rel="stylesheet" href="assets/css/dark.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
+        <!-- FAQ Accordion Styles -->
+        <style>
+            .accordion-item {
+                margin-bottom: 15px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                overflow: hidden;
+                background: #fff;
+            }
+            .accordion-title {
+                display: block;
+                padding: 15px 20px;
+                background: #f5f5f5;
+                cursor: pointer;
+                text-decoration: none !important;
+                color: #333 !important;
+                font-weight: 500;
+                transition: all 0.3s ease;
+                user-select: none;
+            }
+            .accordion-title:hover {
+                background: #e8e8e8;
+            }
+            .accordion-title i {
+                float: right;
+                transition: all 0.3s ease;
+            }
+            .accordion-content {
+                padding: 20px;
+                background: #fafafa;
+                border-top: 1px solid #ddd;
+                line-height: 1.6;
+                transition: all 0.3s ease;
+                max-height: 0;
+                overflow: hidden;
+            }
+            .accordion-content a {
+                color: #2d5016;
+                text-decoration: none;
+                font-weight: 500;
+            }
+            .accordion-content a:hover {
+                text-decoration: underline;
+            }
+        </style>
         <title>SEO FAQ Sri Lanka | Common SEO Questions Answered - Buddhika S Weerasekara</title>
         <meta name="description" content="Get answers to common SEO questions in Sri Lanka. Learn about SEO pricing, strategies, timelines, and more from expert SEO consultant Buddhika S Weerasekara.">
         <meta name="keywords" content="SEO FAQ, SEO questions, SEO pricing Sri Lanka, SEO consultation FAQ">
@@ -627,6 +672,62 @@
   <script src="assets/js/progressbar.min.js" defer></script>
         <!-- Main JS -->
   <script src="assets/js/main.js"></script>
+    
+    <!-- FAQ Accordion Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const accordionItems = document.querySelectorAll('.accordion-item');
+            
+            accordionItems.forEach(item => {
+                const title = item.querySelector('.accordion-title');
+                const content = item.querySelector('.accordion-content');
+                const icon = title.querySelector('i');
+                
+                if (title && content) {
+                    // Initially hide content
+                    content.style.display = 'none';
+                    
+                    // Add click event
+                    title.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        
+                        // Close all other items
+                        accordionItems.forEach(otherItem => {
+                            if (otherItem !== item) {
+                                const otherContent = otherItem.querySelector('.accordion-content');
+                                const otherIcon = otherItem.querySelector('i');
+                                if (otherContent) {
+                                    otherContent.style.display = 'none';
+                                    otherContent.style.maxHeight = '0';
+                                }
+                                if (otherIcon) {
+                                    otherIcon.classList.remove('fa-minus');
+                                    otherIcon.classList.add('fa-plus');
+                                }
+                            }
+                        });
+                        
+                        // Toggle current item
+                        if (content.style.display === 'none') {
+                            content.style.display = 'block';
+                            content.style.maxHeight = '1000px';
+                            if (icon) {
+                                icon.classList.remove('fa-plus');
+                                icon.classList.add('fa-minus');
+                            }
+                        } else {
+                            content.style.display = 'none';
+                            content.style.maxHeight = '0';
+                            if (icon) {
+                                icon.classList.remove('fa-minus');
+                                icon.classList.add('fa-plus');
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script>
     <!-- WhatsApp Chat Button -->
     <a href="https://wa.me/94778064714" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
         <i class="fab fa-whatsapp"></i>
