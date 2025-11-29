@@ -2,6 +2,7 @@
 User-agent: *
 Disallow: /*?p=
 Disallow: /p=
+Disallow: /?_g=
 Disallow: /assets/php/
 Disallow: /admin/
 Disallow: /config/
